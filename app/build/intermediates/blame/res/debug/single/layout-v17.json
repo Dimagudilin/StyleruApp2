@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\styleru_app\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\layout-v17\\preference_information_material.xml",
+        "source": "D:\\styleru_app\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\preference-v14\\25.1.1\\res\\layout-v17\\preference_information_material.xml"
+    },
+    {
+        "merged": "D:\\styleru_app\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\layout-v17\\preference_material.xml",
+        "source": "D:\\styleru_app\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\preference-v14\\25.1.1\\res\\layout-v17\\preference_material.xml"
+    },
+    {
+        "merged": "D:\\styleru_app\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\layout-v17\\preference_dropdown_material.xml",
+        "source": "D:\\styleru_app\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\preference-v14\\25.1.1\\res\\layout-v17\\preference_dropdown_material.xml"
+    },
+    {
+        "merged": "D:\\styleru_app\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\layout-v17\\preference_category_material.xml",
+        "source": "D:\\styleru_app\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\preference-v14\\25.1.1\\res\\layout-v17\\preference_category_material.xml"
+    }
+]

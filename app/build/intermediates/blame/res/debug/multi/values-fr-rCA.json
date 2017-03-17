@@ -1,0 +1,1413 @@
+[
+    {
+        "outputFile": "D:\\styleru_app\\StyleruApp2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-fr-rCA\\values-fr-rCA.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endLine": 5,
+                    "endColumn": 14,
+                    "endOffset": 354
+                },
+                "from": {
+                    "file": "D:\\styleru_app\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\net.danlew\\android.joda\\2.9.5.1\\res\\values-fr-rCA\\values-fr-rCA.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 105,
+                        "endLine": 5,
+                        "endColumn": 14,
+                        "endOffset": 354
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 359,
+                    "endLine": 9,
+                    "endColumn": 14,
+                    "endOffset": 616
+                },
+                "from": {
+                    "file": "D:\\styleru_app\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\net.danlew\\android.joda\\2.9.5.1\\res\\values-fr-rCA\\values-fr-rCA.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 359,
+                        "endLine": 9,
+                        "endColumn": 14,
+                        "endOffset": 616
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 621,
+                    "endLine": 13,
+                    "endColumn": 14,
+                    "endOffset": 881
+                },
+                "from": {
+                    "file": "D:\\styleru_app\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\net.danlew\\android.joda\\2.9.5.1\\res\\values-fr-rCA\\values-fr-rCA.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 621,
+                        "endLine": 13,
+                        "endColumn": 14,
+                        "endOffset": 881
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 886,
+                    "endLine": 17,
+                    "endColumn": 14,
+                    "endOffset": 1149
+                },
+                "from": {
+                    "file": "D:\\styleru_app\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\net.danlew\\android.joda\\2.9.5.1\\res\\values-fr-rCA\\values-fr-rCA.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 886,
+                        "endLine": 17,
+                        "endColumn": 14,
+                        "endOffset": 1149
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1154,
+                    "endLine": 21,
+                    "endColumn": 14,
+                    "endOffset": 1404
+                },
+                "from": {
+                    "file": "D:\\styleru_app\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\net.danlew\\android.joda\\2.9.5.1\\res\\values-fr-rCA\\values-fr-rCA.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1154,
+                        "endLine": 21,
+                        "endColumn": 14,
+                        "endOffset": 1404
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1409,
+                    "endLine": 25,
+                    "endColumn": 14,
+                    "endOffset": 1668
+                },
+                "from": {
+                    "file": "D:\\styleru_app\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\net.danlew\\android.joda\\2.9.5.1\\res\\values-fr-rCA\\values-fr-rCA.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1409,
+                        "endLine": 25,
+                        "endColumn": 14,
+                        "endOffset": 1668
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1673,
+                    "endLine": 29,
+                    "endColumn": 14,
+                    "endOffset": 1935
+                },
+                "from": {
+                    "file": "D:\\styleru_app\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\net.danlew\\android.joda\\2.9.5.1\\res\\values-fr-rCA\\values-fr-rCA.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1673,
+                        "endLine": 29,
+                        "endColumn": 14,
+                        "endOffset": 1935
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 1940,
+                    "endLine": 33,
+                    "endColumn": 14,
+                    "endOffset": 2208
+                },
+                "from": {
+                    "file": "D:\\styleru_app\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\net.danlew\\android.joda\\2.9.5.1\\res\\values-fr-rCA\\values-fr-rCA.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 1940,
+                        "endLine": 33,
+                        "endColumn": 14,
+                        "endOffset": 2208
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 2213,
+                    "endLine": 37,
+                    "endColumn": 14,
+                    "endOffset": 2455
+                },
+                "from": {
+                    "file": "D:\\styleru_app\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\net.danlew\\android.joda\\2.9.5.1\\res\\values-fr-rCA\\values-fr-rCA.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 2213,
+                        "endLine": 37,
+                        "endColumn": 14,
+                        "endOffset": 2455
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 2460,
+                    "endLine": 41,
+                    "endColumn": 14,
+                    "endOffset": 2705
+                },
+                "from": {
+                    "file": "D:\\styleru_app\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\net.danlew\\android.joda\\2.9.5.1\\res\\values-fr-rCA\\values-fr-rCA.xml",
+                    "position": {
+                        "startLine": 38,
+                        "startColumn": 4,
+                        "startOffset": 2460,
+                        "endLine": 41,
+                        "endColumn": 14,
+                        "endOffset": 2705
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 2710,
+                    "endLine": 45,
+                    "endColumn": 14,
+                    "endOffset": 2958
+                },
+                "from": {
+                    "file": "D:\\styleru_app\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\net.danlew\\android.joda\\2.9.5.1\\res\\values-fr-rCA\\values-fr-rCA.xml",
+                    "position": {
+                        "startLine": 42,
+                        "startColumn": 4,
+                        "startOffset": 2710,
+                        "endLine": 45,
+                        "endColumn": 14,
+                        "endOffset": 2958
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 2963,
+                    "endLine": 49,
+                    "endColumn": 14,
+                    "endOffset": 3205
+                },
+                "from": {
+                    "file": "D:\\styleru_app\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\net.danlew\\android.joda\\2.9.5.1\\res\\values-fr-rCA\\values-fr-rCA.xml",
+                    "position": {
+                        "startLine": 46,
+                        "startColumn": 4,
+                        "startOffset": 2963,
+                        "endLine": 49,
+                        "endColumn": 14,
+                        "endOffset": 3205
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 50,
+                    "startColumn": 4,
+                    "startOffset": 3210,
+                    "endLine": 53,
+                    "endColumn": 14,
+                    "endOffset": 3459
+                },
+                "from": {
+                    "file": "D:\\styleru_app\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\net.danlew\\android.joda\\2.9.5.1\\res\\values-fr-rCA\\values-fr-rCA.xml",
+                    "position": {
+                        "startLine": 50,
+                        "startColumn": 4,
+                        "startOffset": 3210,
+                        "endLine": 53,
+                        "endColumn": 14,
+                        "endOffset": 3459
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 54,
+                    "startColumn": 4,
+                    "startOffset": 3464,
+                    "endLine": 57,
+                    "endColumn": 14,
+                    "endOffset": 3718
+                },
+                "from": {
+                    "file": "D:\\styleru_app\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\net.danlew\\android.joda\\2.9.5.1\\res\\values-fr-rCA\\values-fr-rCA.xml",
+                    "position": {
+                        "startLine": 54,
+                        "startColumn": 4,
+                        "startOffset": 3464,
+                        "endLine": 57,
+                        "endColumn": 14,
+                        "endOffset": 3718
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 58,
+                    "startColumn": 4,
+                    "startOffset": 3723,
+                    "endLine": 61,
+                    "endColumn": 14,
+                    "endOffset": 3979
+                },
+                "from": {
+                    "file": "D:\\styleru_app\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\net.danlew\\android.joda\\2.9.5.1\\res\\values-fr-rCA\\values-fr-rCA.xml",
+                    "position": {
+                        "startLine": 58,
+                        "startColumn": 4,
+                        "startOffset": 3723,
+                        "endLine": 61,
+                        "endColumn": 14,
+                        "endOffset": 3979
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 62,
+                    "startColumn": 4,
+                    "startOffset": 3984,
+                    "endLine": 65,
+                    "endColumn": 14,
+                    "endOffset": 4226
+                },
+                "from": {
+                    "file": "D:\\styleru_app\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\net.danlew\\android.joda\\2.9.5.1\\res\\values-fr-rCA\\values-fr-rCA.xml",
+                    "position": {
+                        "startLine": 62,
+                        "startColumn": 4,
+                        "startOffset": 3984,
+                        "endLine": 65,
+                        "endColumn": 14,
+                        "endOffset": 4226
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 66,
+                    "startColumn": 4,
+                    "startOffset": 4231,
+                    "endLine": 69,
+                    "endColumn": 14,
+                    "endOffset": 4486
+                },
+                "from": {
+                    "file": "D:\\styleru_app\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\net.danlew\\android.joda\\2.9.5.1\\res\\values-fr-rCA\\values-fr-rCA.xml",
+                    "position": {
+                        "startLine": 66,
+                        "startColumn": 4,
+                        "startOffset": 4231,
+                        "endLine": 69,
+                        "endColumn": 14,
+                        "endOffset": 4486
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 70,
+                    "startColumn": 4,
+                    "startOffset": 4491,
+                    "endLine": 73,
+                    "endColumn": 14,
+                    "endOffset": 4750
+                },
+                "from": {
+                    "file": "D:\\styleru_app\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\net.danlew\\android.joda\\2.9.5.1\\res\\values-fr-rCA\\values-fr-rCA.xml",
+                    "position": {
+                        "startLine": 70,
+                        "startColumn": 4,
+                        "startOffset": 4491,
+                        "endLine": 73,
+                        "endColumn": 14,
+                        "endOffset": 4750
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 74,
+                    "startColumn": 4,
+                    "startOffset": 4755,
+                    "endLine": 77,
+                    "endColumn": 14,
+                    "endOffset": 5016
+                },
+                "from": {
+                    "file": "D:\\styleru_app\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\net.danlew\\android.joda\\2.9.5.1\\res\\values-fr-rCA\\values-fr-rCA.xml",
+                    "position": {
+                        "startLine": 74,
+                        "startColumn": 4,
+                        "startOffset": 4755,
+                        "endLine": 77,
+                        "endColumn": 14,
+                        "endOffset": 5016
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 78,
+                    "startColumn": 4,
+                    "startOffset": 5021,
+                    "endColumn": 110,
+                    "endOffset": 5127
+                },
+                "from": {
+                    "file": "D:\\styleru_app\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\values-fr-rCA\\values-fr-rCA.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 110,
+                        "endOffset": 161
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 79,
+                    "startColumn": 4,
+                    "startOffset": 5132,
+                    "endColumn": 107,
+                    "endOffset": 5235
+                },
+                "from": {
+                    "file": "D:\\styleru_app\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\values-fr-rCA\\values-fr-rCA.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 166,
+                        "endColumn": 107,
+                        "endOffset": 269
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 80,
+                    "startColumn": 4,
+                    "startOffset": 5240,
+                    "endColumn": 122,
+                    "endOffset": 5358
+                },
+                "from": {
+                    "file": "D:\\styleru_app\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\values-fr-rCA\\values-fr-rCA.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 274,
+                        "endColumn": 122,
+                        "endOffset": 392
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 81,
+                    "startColumn": 4,
+                    "startOffset": 5363,
+                    "endColumn": 114,
+                    "endOffset": 5473
+                },
+                "from": {
+                    "file": "D:\\styleru_app\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\values-fr-rCA\\values-fr-rCA.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 397,
+                        "endColumn": 114,
+                        "endOffset": 507
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 82,
+                    "startColumn": 4,
+                    "startOffset": 5478,
+                    "endColumn": 110,
+                    "endOffset": 5584
+                },
+                "from": {
+                    "file": "D:\\styleru_app\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\values-fr-rCA\\values-fr-rCA.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 512,
+                        "endColumn": 110,
+                        "endOffset": 618
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 83,
+                    "startColumn": 4,
+                    "startOffset": 5589,
+                    "endColumn": 86,
+                    "endOffset": 5671
+                },
+                "from": {
+                    "file": "D:\\styleru_app\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\values-fr-rCA\\values-fr-rCA.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 623,
+                        "endColumn": 86,
+                        "endOffset": 705
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 84,
+                    "startColumn": 4,
+                    "startOffset": 5676,
+                    "endColumn": 115,
+                    "endOffset": 5787
+                },
+                "from": {
+                    "file": "D:\\styleru_app\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\values-fr-rCA\\values-fr-rCA.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 710,
+                        "endColumn": 115,
+                        "endOffset": 821
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 85,
+                    "startColumn": 4,
+                    "startOffset": 5792,
+                    "endColumn": 129,
+                    "endOffset": 5917
+                },
+                "from": {
+                    "file": "D:\\styleru_app\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\values-fr-rCA\\values-fr-rCA.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 826,
+                        "endColumn": 129,
+                        "endOffset": 951
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 86,
+                    "startColumn": 4,
+                    "startOffset": 5922,
+                    "endColumn": 82,
+                    "endOffset": 6000
+                },
+                "from": {
+                    "file": "D:\\styleru_app\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\values-fr-rCA\\values-fr-rCA.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 956,
+                        "endColumn": 82,
+                        "endOffset": 1034
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 87,
+                    "startColumn": 4,
+                    "startOffset": 6005,
+                    "endColumn": 79,
+                    "endOffset": 6080
+                },
+                "from": {
+                    "file": "D:\\styleru_app\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\values-fr-rCA\\values-fr-rCA.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1039,
+                        "endColumn": 79,
+                        "endOffset": 1114
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 88,
+                    "startColumn": 4,
+                    "startOffset": 6085,
+                    "endColumn": 95,
+                    "endOffset": 6176
+                },
+                "from": {
+                    "file": "D:\\styleru_app\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\values-fr-rCA\\values-fr-rCA.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1119,
+                        "endColumn": 95,
+                        "endOffset": 1210
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 89,
+                    "startColumn": 4,
+                    "startOffset": 6181,
+                    "endColumn": 109,
+                    "endOffset": 6286
+                },
+                "from": {
+                    "file": "D:\\styleru_app\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\values-fr-rCA\\values-fr-rCA.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1215,
+                        "endColumn": 109,
+                        "endOffset": 1320
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 90,
+                    "startColumn": 4,
+                    "startOffset": 6291,
+                    "endColumn": 111,
+                    "endOffset": 6398
+                },
+                "from": {
+                    "file": "D:\\styleru_app\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\values-fr-rCA\\values-fr-rCA.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1325,
+                        "endColumn": 111,
+                        "endOffset": 1432
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 91,
+                    "startColumn": 4,
+                    "startOffset": 6403,
+                    "endColumn": 102,
+                    "endOffset": 6501
+                },
+                "from": {
+                    "file": "D:\\styleru_app\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\values-fr-rCA\\values-fr-rCA.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1437,
+                        "endColumn": 102,
+                        "endOffset": 1535
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 92,
+                    "startColumn": 4,
+                    "startOffset": 6506,
+                    "endColumn": 110,
+                    "endOffset": 6612
+                },
+                "from": {
+                    "file": "D:\\styleru_app\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\values-fr-rCA\\values-fr-rCA.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1540,
+                        "endColumn": 110,
+                        "endOffset": 1646
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 93,
+                    "startColumn": 4,
+                    "startOffset": 6617,
+                    "endColumn": 106,
+                    "endOffset": 6719
+                },
+                "from": {
+                    "file": "D:\\styleru_app\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\values-fr-rCA\\values-fr-rCA.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1651,
+                        "endColumn": 106,
+                        "endOffset": 1753
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 94,
+                    "startColumn": 4,
+                    "startOffset": 6724,
+                    "endColumn": 101,
+                    "endOffset": 6821
+                },
+                "from": {
+                    "file": "D:\\styleru_app\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\values-fr-rCA\\values-fr-rCA.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1758,
+                        "endColumn": 101,
+                        "endOffset": 1855
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 95,
+                    "startColumn": 4,
+                    "startOffset": 6826,
+                    "endColumn": 121,
+                    "endOffset": 6943
+                },
+                "from": {
+                    "file": "D:\\styleru_app\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\values-fr-rCA\\values-fr-rCA.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1860,
+                        "endColumn": 121,
+                        "endOffset": 1977
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 96,
+                    "startColumn": 4,
+                    "startOffset": 6948,
+                    "endColumn": 98,
+                    "endOffset": 7042
+                },
+                "from": {
+                    "file": "D:\\styleru_app\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\values-fr-rCA\\values-fr-rCA.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1982,
+                        "endColumn": 98,
+                        "endOffset": 2076
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 97,
+                    "startColumn": 4,
+                    "startOffset": 7047,
+                    "endColumn": 295,
+                    "endOffset": 7338
+                },
+                "from": {
+                    "file": "D:\\styleru_app\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-fr-rCA\\base_strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 3734,
+                        "endColumn": 299,
+                        "endOffset": 4029
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 98,
+                    "startColumn": 4,
+                    "startOffset": 7343,
+                    "endColumn": 132,
+                    "endOffset": 7471
+                },
+                "from": {
+                    "file": "D:\\styleru_app\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-fr-rCA\\base_strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 1414,
+                        "endColumn": 132,
+                        "endOffset": 1542
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 99,
+                    "startColumn": 4,
+                    "startOffset": 7476,
+                    "endColumn": 211,
+                    "endOffset": 7683
+                },
+                "from": {
+                    "file": "D:\\styleru_app\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-fr-rCA\\base_strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 1198,
+                        "endColumn": 215,
+                        "endOffset": 1409
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 100,
+                    "startColumn": 4,
+                    "startOffset": 7688,
+                    "endColumn": 131,
+                    "endOffset": 7815
+                },
+                "from": {
+                    "file": "D:\\styleru_app\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-fr-rCA\\base_strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 1066,
+                        "endColumn": 131,
+                        "endOffset": 1193
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 101,
+                    "startColumn": 4,
+                    "startOffset": 7820,
+                    "endColumn": 135,
+                    "endOffset": 7951
+                },
+                "from": {
+                    "file": "D:\\styleru_app\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-fr-rCA\\base_strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 930,
+                        "endColumn": 135,
+                        "endOffset": 1061
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 102,
+                    "startColumn": 4,
+                    "startOffset": 7956,
+                    "endColumn": 236,
+                    "endOffset": 8188
+                },
+                "from": {
+                    "file": "D:\\styleru_app\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-fr-rCA\\base_strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 448,
+                        "endColumn": 240,
+                        "endOffset": 684
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 103,
+                    "startColumn": 4,
+                    "startOffset": 8193,
+                    "endColumn": 236,
+                    "endOffset": 8425
+                },
+                "from": {
+                    "file": "D:\\styleru_app\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-fr-rCA\\base_strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 689,
+                        "endColumn": 240,
+                        "endOffset": 925
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 104,
+                    "startColumn": 4,
+                    "startOffset": 8430,
+                    "endColumn": 134,
+                    "endOffset": 8560
+                },
+                "from": {
+                    "file": "D:\\styleru_app\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-fr-rCA\\base_strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 313,
+                        "endColumn": 134,
+                        "endOffset": 443
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 105,
+                    "startColumn": 4,
+                    "startOffset": 8565,
+                    "endColumn": 195,
+                    "endOffset": 8756
+                },
+                "from": {
+                    "file": "D:\\styleru_app\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-fr-rCA\\base_strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 2911,
+                        "endColumn": 195,
+                        "endOffset": 3102
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 106,
+                    "startColumn": 4,
+                    "startOffset": 8761,
+                    "endColumn": 122,
+                    "endOffset": 8879
+                },
+                "from": {
+                    "file": "D:\\styleru_app\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-fr-rCA\\base_strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 2788,
+                        "endColumn": 122,
+                        "endOffset": 2906
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 107,
+                    "startColumn": 4,
+                    "startOffset": 8884,
+                    "endColumn": 192,
+                    "endOffset": 9072
+                },
+                "from": {
+                    "file": "D:\\styleru_app\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-fr-rCA\\base_strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 2595,
+                        "endColumn": 192,
+                        "endOffset": 2783
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 108,
+                    "startColumn": 4,
+                    "startOffset": 9077,
+                    "endColumn": 119,
+                    "endOffset": 9192
+                },
+                "from": {
+                    "file": "D:\\styleru_app\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-fr-rCA\\base_strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 2475,
+                        "endColumn": 119,
+                        "endOffset": 2590
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 109,
+                    "startColumn": 4,
+                    "startOffset": 9197,
+                    "endColumn": 142,
+                    "endOffset": 9335
+                },
+                "from": {
+                    "file": "D:\\styleru_app\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-fr-rCA\\base_strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 170,
+                        "endColumn": 142,
+                        "endOffset": 308
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 110,
+                    "startColumn": 4,
+                    "startOffset": 9340,
+                    "endColumn": 180,
+                    "endOffset": 9516
+                },
+                "from": {
+                    "file": "D:\\styleru_app\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-fr-rCA\\base_strings.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 4471,
+                        "endColumn": 180,
+                        "endOffset": 4647
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 111,
+                    "startColumn": 4,
+                    "startOffset": 9521,
+                    "endColumn": 124,
+                    "endOffset": 9641
+                },
+                "from": {
+                    "file": "D:\\styleru_app\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-fr-rCA\\base_strings.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 4346,
+                        "endColumn": 124,
+                        "endOffset": 4466
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 112,
+                    "startColumn": 4,
+                    "startOffset": 9646,
+                    "endColumn": 185,
+                    "endOffset": 9827
+                },
+                "from": {
+                    "file": "D:\\styleru_app\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-fr-rCA\\base_strings.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 4160,
+                        "endColumn": 185,
+                        "endOffset": 4341
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 113,
+                    "startColumn": 4,
+                    "startOffset": 9832,
+                    "endColumn": 125,
+                    "endOffset": 9953
+                },
+                "from": {
+                    "file": "D:\\styleru_app\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-fr-rCA\\base_strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 4034,
+                        "endColumn": 125,
+                        "endOffset": 4155
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 114,
+                    "startColumn": 4,
+                    "startOffset": 9958,
+                    "endColumn": 290,
+                    "endOffset": 10244
+                },
+                "from": {
+                    "file": "D:\\styleru_app\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.4.0\\res\\values-fr-rCA\\common_strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 170,
+                        "endColumn": 294,
+                        "endOffset": 460
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 115,
+                    "startColumn": 4,
+                    "startOffset": 10249,
+                    "endColumn": 282,
+                    "endOffset": 10527
+                },
+                "from": {
+                    "file": "D:\\styleru_app\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-fr-rCA\\base_strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 3231,
+                        "endColumn": 286,
+                        "endOffset": 3513
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 116,
+                    "startColumn": 4,
+                    "startOffset": 10532,
+                    "endColumn": 123,
+                    "endOffset": 10651
+                },
+                "from": {
+                    "file": "D:\\styleru_app\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-fr-rCA\\base_strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 3107,
+                        "endColumn": 123,
+                        "endOffset": 3226
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 117,
+                    "startColumn": 4,
+                    "startOffset": 10656,
+                    "endColumn": 113,
+                    "endOffset": 10765
+                },
+                "from": {
+                    "file": "D:\\styleru_app\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-fr-rCA\\base_strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 3518,
+                        "endColumn": 113,
+                        "endOffset": 3627
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 118,
+                    "startColumn": 4,
+                    "startOffset": 10770,
+                    "endColumn": 215,
+                    "endOffset": 10981
+                },
+                "from": {
+                    "file": "D:\\styleru_app\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-fr-rCA\\base_strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1685,
+                        "endColumn": 219,
+                        "endOffset": 1900
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 119,
+                    "startColumn": 4,
+                    "startOffset": 10986,
+                    "endColumn": 137,
+                    "endOffset": 11119
+                },
+                "from": {
+                    "file": "D:\\styleru_app\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-fr-rCA\\base_strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1547,
+                        "endColumn": 137,
+                        "endOffset": 1680
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 120,
+                    "startColumn": 4,
+                    "startOffset": 11124,
+                    "endColumn": 218,
+                    "endOffset": 11338
+                },
+                "from": {
+                    "file": "D:\\styleru_app\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-fr-rCA\\base_strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 2252,
+                        "endColumn": 222,
+                        "endOffset": 2470
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 121,
+                    "startColumn": 4,
+                    "startOffset": 11343,
+                    "endColumn": 137,
+                    "endOffset": 11476
+                },
+                "from": {
+                    "file": "D:\\styleru_app\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-fr-rCA\\base_strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 2114,
+                        "endColumn": 137,
+                        "endOffset": 2247
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 122,
+                    "startColumn": 4,
+                    "startOffset": 11481,
+                    "endColumn": 208,
+                    "endOffset": 11685
+                },
+                "from": {
+                    "file": "D:\\styleru_app\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-fr-rCA\\base_strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1905,
+                        "endColumn": 208,
+                        "endOffset": 2109
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 123,
+                    "startColumn": 4,
+                    "startOffset": 11690,
+                    "endColumn": 101,
+                    "endOffset": 11787
+                },
+                "from": {
+                    "file": "D:\\styleru_app\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-fr-rCA\\base_strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 3632,
+                        "endColumn": 101,
+                        "endOffset": 3729
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 124,
+                    "startColumn": 4,
+                    "startOffset": 11792,
+                    "endColumn": 93,
+                    "endOffset": 11881
+                },
+                "from": {
+                    "file": "D:\\styleru_app\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-fr-rCA\\base_strings.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 4652,
+                        "endColumn": 93,
+                        "endOffset": 4741
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 125,
+                    "startColumn": 4,
+                    "startOffset": 11886,
+                    "endColumn": 113,
+                    "endOffset": 11995
+                },
+                "from": {
+                    "file": "D:\\styleru_app\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-fr-rCA\\base_strings.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 4746,
+                        "endColumn": 113,
+                        "endOffset": 4855
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 126,
+                    "startColumn": 4,
+                    "startOffset": 12000,
+                    "endColumn": 127,
+                    "endOffset": 12123
+                },
+                "from": {
+                    "file": "D:\\styleru_app\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\net.danlew\\android.joda\\2.9.5.1\\res\\values-fr-rCA\\values-fr-rCA.xml",
+                    "position": {
+                        "startLine": 78,
+                        "startColumn": 4,
+                        "startOffset": 5021,
+                        "endColumn": 127,
+                        "endOffset": 5144
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 127,
+                    "startColumn": 4,
+                    "startOffset": 12128,
+                    "endColumn": 126,
+                    "endOffset": 12250
+                },
+                "from": {
+                    "file": "D:\\styleru_app\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\net.danlew\\android.joda\\2.9.5.1\\res\\values-fr-rCA\\values-fr-rCA.xml",
+                    "position": {
+                        "startLine": 79,
+                        "startColumn": 4,
+                        "startOffset": 5149,
+                        "endColumn": 126,
+                        "endOffset": 5271
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 128,
+                    "startColumn": 4,
+                    "startOffset": 12255,
+                    "endColumn": 150,
+                    "endOffset": 12401
+                },
+                "from": {
+                    "file": "D:\\styleru_app\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\net.danlew\\android.joda\\2.9.5.1\\res\\values-fr-rCA\\values-fr-rCA.xml",
+                    "position": {
+                        "startLine": 80,
+                        "startColumn": 4,
+                        "startOffset": 5276,
+                        "endColumn": 150,
+                        "endOffset": 5422
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 129,
+                    "startColumn": 4,
+                    "startOffset": 12406,
+                    "endColumn": 85,
+                    "endOffset": 12487
+                },
+                "from": {
+                    "file": "D:\\styleru_app\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\values-fr-rCA\\values-fr-rCA.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 2081,
+                        "endColumn": 85,
+                        "endOffset": 2162
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 130,
+                    "startColumn": 4,
+                    "startOffset": 12492,
+                    "endColumn": 100,
+                    "endOffset": 12588
+                },
+                "from": {
+                    "file": "D:\\styleru_app\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\values-fr-rCA\\values-fr-rCA.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 2167,
+                        "endColumn": 100,
+                        "endOffset": 2263
+                    }
+                }
+            }
+        ]
+    }
+]

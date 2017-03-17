@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="armeabi-v7a,armeabi"
+    api-level="19"
+    density="hdpi"
+    format="8"
+    plugin-version="2.2.3"
+    timestamp="523950746932958"
+    token="8090970671686935474"
+    verifier="METHOD_DELETED" >
+
+    <task
+        name="javac"
+        duration="9139" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="266" />
+    <task
+        name="verifier"
+        duration="198" />
+
+    <artifact
+        location="D:\styleru_app\StyleruApp2\app\build\outputs\apk\app-debug.apk"
+        type="MAIN" />
+
+    <build
+        timestamp="523950746932958"
+        verifier="METHOD_DELETED" >
+        <artifact
+            location="D:\styleru_app\StyleruApp2\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

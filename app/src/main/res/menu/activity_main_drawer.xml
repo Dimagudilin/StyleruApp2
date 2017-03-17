@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android">
+        <item
+            android:id="@+id/nav_events"
+            android:icon="@drawable/ic_greater_calendar"
+            android:title="Мероприятия" />
+        <item
+            android:id="@+id/nav_people"
+            android:icon="@drawable/ic_avatar"
+            android:title="Люди" />
+        <item
+            android:id="@+id/nav_direct"
+            android:icon="@drawable/ic_explore"
+            android:title="Направления" />
+        <item
+            android:id="@+id/nav_projects"
+            android:icon="@drawable/ic_presentation"
+            android:title="Проекты" />
+</menu>

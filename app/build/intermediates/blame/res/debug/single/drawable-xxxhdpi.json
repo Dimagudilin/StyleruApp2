@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "D:\\styleru_app\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_greater_calendar.png",
+        "source": "D:\\styleru_app\\StyleruApp2\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_greater_calendar.png"
+    },
+    {
+        "merged": "D:\\styleru_app\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\placeholder_loading.png",
+        "source": "D:\\styleru_app\\StyleruApp2\\app\\src\\main\\res\\drawable-xxxhdpi\\placeholder_loading.png"
+    },
+    {
+        "merged": "D:\\styleru_app\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_location.png",
+        "source": "D:\\styleru_app\\StyleruApp2\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_location.png"
+    },
+    {
+        "merged": "D:\\styleru_app\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_button_go_0.png",
+        "source": "D:\\styleru_app\\StyleruApp2\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_button_go_0.png"
+    },
+    {
+        "merged": "D:\\styleru_app\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_explore.png",
+        "source": "D:\\styleru_app\\StyleruApp2\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_explore.png"
+    },
+    {
+        "merged": "D:\\styleru_app\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_clock.png",
+        "source": "D:\\styleru_app\\StyleruApp2\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_clock.png"
+    },
+    {
+        "merged": "D:\\styleru_app\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_calendar.png",
+        "source": "D:\\styleru_app\\StyleruApp2\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_calendar.png"
+    },
+    {
+        "merged": "D:\\styleru_app\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_presentation.png",
+        "source": "D:\\styleru_app\\StyleruApp2\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_presentation.png"
+    },
+    {
+        "merged": "D:\\styleru_app\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_avatar.png",
+        "source": "D:\\styleru_app\\StyleruApp2\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_avatar.png"
+    }
+]
