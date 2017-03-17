@@ -1,5 +1,25 @@
 [
     {
+        "merged": "D:\\styleru.org\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\preference_category_material.xml",
+        "source": "D:\\styleru.org\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\preference-v14\\25.1.1\\res\\layout-v21\\preference_category_material.xml"
+    },
+    {
+        "merged": "D:\\styleru.org\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "D:\\styleru.org\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "D:\\styleru.org\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\preference_information_material.xml",
+        "source": "D:\\styleru.org\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\preference-v14\\25.1.1\\res\\layout-v21\\preference_information_material.xml"
+    },
+    {
+        "merged": "D:\\styleru.org\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "D:\\styleru.org\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "D:\\styleru.org\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\preference_material.xml",
+        "source": "D:\\styleru.org\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\preference-v14\\25.1.1\\res\\layout-v21\\preference_material.xml"
+    },
+    {
         "merged": "D:\\styleru_app\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\preference_information_material.xml",
         "source": "D:\\styleru_app\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\preference-v14\\25.1.1\\res\\layout-v21\\preference_information_material.xml"
     },
@@ -10,6 +30,10 @@
     {
         "merged": "D:\\styleru_app\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\preference_category_material.xml",
         "source": "D:\\styleru_app\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\preference-v14\\25.1.1\\res\\layout-v21\\preference_category_material.xml"
+    },
+    {
+        "merged": "D:\\styleru.org\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "D:\\styleru.org\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\layout-v21\\notification_action.xml"
     },
     {
         "merged": "D:\\styleru_app\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\preference_dropdown_material.xml",
@@ -26,6 +50,14 @@
     {
         "merged": "D:\\styleru_app\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\preference_material.xml",
         "source": "D:\\styleru_app\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\preference-v14\\25.1.1\\res\\layout-v21\\preference_material.xml"
+    },
+    {
+        "merged": "D:\\styleru.org\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\preference_dropdown_material.xml",
+        "source": "D:\\styleru.org\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\preference-v14\\25.1.1\\res\\layout-v21\\preference_dropdown_material.xml"
+    },
+    {
+        "merged": "D:\\styleru.org\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "D:\\styleru.org\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\layout-v21\\notification_template_custom_big.xml"
     },
     {
         "merged": "D:\\styleru_app\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",

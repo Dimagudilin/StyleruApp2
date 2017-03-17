@@ -2,10 +2,9 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:paddingTop="45dp"
-    tools:context="org.styleru.styleruapp.view.fragments.AllPeopleFragment">
+    android:paddingTop="5dp">
+    <!--tools:context="org.styleru.styleruapp.view.fragments.AllPeopleFragment">-->
 
-    <!-- TODO: Update blank fragment layout -->
     <LinearLayout
         android:orientation="vertical"
         android:layout_height="match_parent"

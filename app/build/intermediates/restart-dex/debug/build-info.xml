@@ -5,32 +5,32 @@
     density="hdpi"
     format="8"
     plugin-version="2.2.3"
-    timestamp="523950746932958"
+    timestamp="540327208685266"
     token="8090970671686935474"
-    verifier="METHOD_DELETED" >
+    verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
-        duration="9139" />
+        duration="2285" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="266" />
+        duration="62" />
     <task
         name="verifier"
-        duration="198" />
+        duration="3" />
 
     <artifact
-        location="D:\styleru_app\StyleruApp2\app\build\outputs\apk\app-debug.apk"
+        location="D:\styleru.org\StyleruApp2\app\build\outputs\apk\app-debug.apk"
         type="MAIN" />
 
     <build
-        timestamp="523950746932958"
-        verifier="METHOD_DELETED" >
+        timestamp="540327208685266"
+        verifier="FULL_BUILD_REQUESTED" >
         <artifact
-            location="D:\styleru_app\StyleruApp2\app\build\outputs\apk\app-debug.apk"
+            location="D:\styleru.org\StyleruApp2\app\build\outputs\apk\app-debug.apk"
             type="MAIN" />
     </build>
 

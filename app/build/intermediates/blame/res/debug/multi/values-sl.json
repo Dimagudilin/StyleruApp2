@@ -1,5 +1,1435 @@
 [
     {
+        "outputFile": "D:\\styleru.org\\StyleruApp2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sl\\values-sl.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endLine": 5,
+                    "endColumn": 14,
+                    "endOffset": 350
+                },
+                "from": {
+                    "file": "D:\\styleru.org\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\net.danlew\\android.joda\\2.9.5.1\\res\\values-sl\\values-sl.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 105,
+                        "endLine": 5,
+                        "endColumn": 14,
+                        "endOffset": 350
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 355,
+                    "endLine": 9,
+                    "endColumn": 14,
+                    "endOffset": 604
+                },
+                "from": {
+                    "file": "D:\\styleru.org\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\net.danlew\\android.joda\\2.9.5.1\\res\\values-sl\\values-sl.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 355,
+                        "endLine": 9,
+                        "endColumn": 14,
+                        "endOffset": 604
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 609,
+                    "endLine": 13,
+                    "endColumn": 14,
+                    "endOffset": 862
+                },
+                "from": {
+                    "file": "D:\\styleru.org\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\net.danlew\\android.joda\\2.9.5.1\\res\\values-sl\\values-sl.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 609,
+                        "endLine": 13,
+                        "endColumn": 14,
+                        "endOffset": 862
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 867,
+                    "endLine": 17,
+                    "endColumn": 14,
+                    "endOffset": 1134
+                },
+                "from": {
+                    "file": "D:\\styleru.org\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\net.danlew\\android.joda\\2.9.5.1\\res\\values-sl\\values-sl.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 867,
+                        "endLine": 17,
+                        "endColumn": 14,
+                        "endOffset": 1134
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1139,
+                    "endLine": 21,
+                    "endColumn": 14,
+                    "endOffset": 1389
+                },
+                "from": {
+                    "file": "D:\\styleru.org\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\net.danlew\\android.joda\\2.9.5.1\\res\\values-sl\\values-sl.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1139,
+                        "endLine": 21,
+                        "endColumn": 14,
+                        "endOffset": 1389
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1394,
+                    "endLine": 25,
+                    "endColumn": 14,
+                    "endOffset": 1649
+                },
+                "from": {
+                    "file": "D:\\styleru.org\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\net.danlew\\android.joda\\2.9.5.1\\res\\values-sl\\values-sl.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1394,
+                        "endLine": 25,
+                        "endColumn": 14,
+                        "endOffset": 1649
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1654,
+                    "endLine": 29,
+                    "endColumn": 14,
+                    "endOffset": 1916
+                },
+                "from": {
+                    "file": "D:\\styleru.org\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\net.danlew\\android.joda\\2.9.5.1\\res\\values-sl\\values-sl.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1654,
+                        "endLine": 29,
+                        "endColumn": 14,
+                        "endOffset": 1916
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 1921,
+                    "endLine": 33,
+                    "endColumn": 14,
+                    "endOffset": 2194
+                },
+                "from": {
+                    "file": "D:\\styleru.org\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\net.danlew\\android.joda\\2.9.5.1\\res\\values-sl\\values-sl.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 1921,
+                        "endLine": 33,
+                        "endColumn": 14,
+                        "endOffset": 2194
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 2199,
+                    "endLine": 37,
+                    "endColumn": 14,
+                    "endOffset": 2434
+                },
+                "from": {
+                    "file": "D:\\styleru.org\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\net.danlew\\android.joda\\2.9.5.1\\res\\values-sl\\values-sl.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 2199,
+                        "endLine": 37,
+                        "endColumn": 14,
+                        "endOffset": 2434
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 2439,
+                    "endLine": 41,
+                    "endColumn": 14,
+                    "endOffset": 2681
+                },
+                "from": {
+                    "file": "D:\\styleru.org\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\net.danlew\\android.joda\\2.9.5.1\\res\\values-sl\\values-sl.xml",
+                    "position": {
+                        "startLine": 38,
+                        "startColumn": 4,
+                        "startOffset": 2439,
+                        "endLine": 41,
+                        "endColumn": 14,
+                        "endOffset": 2681
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 2686,
+                    "endLine": 45,
+                    "endColumn": 14,
+                    "endOffset": 2927
+                },
+                "from": {
+                    "file": "D:\\styleru.org\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\net.danlew\\android.joda\\2.9.5.1\\res\\values-sl\\values-sl.xml",
+                    "position": {
+                        "startLine": 42,
+                        "startColumn": 4,
+                        "startOffset": 2686,
+                        "endLine": 45,
+                        "endColumn": 14,
+                        "endOffset": 2927
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 2932,
+                    "endLine": 49,
+                    "endColumn": 14,
+                    "endOffset": 3170
+                },
+                "from": {
+                    "file": "D:\\styleru.org\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\net.danlew\\android.joda\\2.9.5.1\\res\\values-sl\\values-sl.xml",
+                    "position": {
+                        "startLine": 46,
+                        "startColumn": 4,
+                        "startOffset": 2932,
+                        "endLine": 49,
+                        "endColumn": 14,
+                        "endOffset": 3170
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 50,
+                    "startColumn": 4,
+                    "startOffset": 3175,
+                    "endLine": 53,
+                    "endColumn": 14,
+                    "endOffset": 3416
+                },
+                "from": {
+                    "file": "D:\\styleru.org\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\net.danlew\\android.joda\\2.9.5.1\\res\\values-sl\\values-sl.xml",
+                    "position": {
+                        "startLine": 50,
+                        "startColumn": 4,
+                        "startOffset": 3175,
+                        "endLine": 53,
+                        "endColumn": 14,
+                        "endOffset": 3416
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 54,
+                    "startColumn": 4,
+                    "startOffset": 3421,
+                    "endLine": 57,
+                    "endColumn": 14,
+                    "endOffset": 3680
+                },
+                "from": {
+                    "file": "D:\\styleru.org\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\net.danlew\\android.joda\\2.9.5.1\\res\\values-sl\\values-sl.xml",
+                    "position": {
+                        "startLine": 54,
+                        "startColumn": 4,
+                        "startOffset": 3421,
+                        "endLine": 57,
+                        "endColumn": 14,
+                        "endOffset": 3680
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 58,
+                    "startColumn": 4,
+                    "startOffset": 3685,
+                    "endLine": 61,
+                    "endColumn": 14,
+                    "endOffset": 3937
+                },
+                "from": {
+                    "file": "D:\\styleru.org\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\net.danlew\\android.joda\\2.9.5.1\\res\\values-sl\\values-sl.xml",
+                    "position": {
+                        "startLine": 58,
+                        "startColumn": 4,
+                        "startOffset": 3685,
+                        "endLine": 61,
+                        "endColumn": 14,
+                        "endOffset": 3937
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 62,
+                    "startColumn": 4,
+                    "startOffset": 3942,
+                    "endLine": 65,
+                    "endColumn": 14,
+                    "endOffset": 4184
+                },
+                "from": {
+                    "file": "D:\\styleru.org\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\net.danlew\\android.joda\\2.9.5.1\\res\\values-sl\\values-sl.xml",
+                    "position": {
+                        "startLine": 62,
+                        "startColumn": 4,
+                        "startOffset": 3942,
+                        "endLine": 65,
+                        "endColumn": 14,
+                        "endOffset": 4184
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 66,
+                    "startColumn": 4,
+                    "startOffset": 4189,
+                    "endLine": 69,
+                    "endColumn": 14,
+                    "endOffset": 4437
+                },
+                "from": {
+                    "file": "D:\\styleru.org\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\net.danlew\\android.joda\\2.9.5.1\\res\\values-sl\\values-sl.xml",
+                    "position": {
+                        "startLine": 66,
+                        "startColumn": 4,
+                        "startOffset": 4189,
+                        "endLine": 69,
+                        "endColumn": 14,
+                        "endOffset": 4437
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 70,
+                    "startColumn": 4,
+                    "startOffset": 4442,
+                    "endLine": 73,
+                    "endColumn": 14,
+                    "endOffset": 4698
+                },
+                "from": {
+                    "file": "D:\\styleru.org\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\net.danlew\\android.joda\\2.9.5.1\\res\\values-sl\\values-sl.xml",
+                    "position": {
+                        "startLine": 70,
+                        "startColumn": 4,
+                        "startOffset": 4442,
+                        "endLine": 73,
+                        "endColumn": 14,
+                        "endOffset": 4698
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 74,
+                    "startColumn": 4,
+                    "startOffset": 4703,
+                    "endLine": 77,
+                    "endColumn": 14,
+                    "endOffset": 4969
+                },
+                "from": {
+                    "file": "D:\\styleru.org\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\net.danlew\\android.joda\\2.9.5.1\\res\\values-sl\\values-sl.xml",
+                    "position": {
+                        "startLine": 74,
+                        "startColumn": 4,
+                        "startOffset": 4703,
+                        "endLine": 77,
+                        "endColumn": 14,
+                        "endOffset": 4969
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 78,
+                    "startColumn": 4,
+                    "startOffset": 4974,
+                    "endColumn": 106,
+                    "endOffset": 5076
+                },
+                "from": {
+                    "file": "D:\\styleru.org\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\values-sl\\values-sl.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 106,
+                        "endOffset": 157
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 79,
+                    "startColumn": 4,
+                    "startOffset": 5081,
+                    "endColumn": 107,
+                    "endOffset": 5184
+                },
+                "from": {
+                    "file": "D:\\styleru.org\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\values-sl\\values-sl.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 162,
+                        "endColumn": 107,
+                        "endOffset": 265
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 80,
+                    "startColumn": 4,
+                    "startOffset": 5189,
+                    "endColumn": 122,
+                    "endOffset": 5307
+                },
+                "from": {
+                    "file": "D:\\styleru.org\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\values-sl\\values-sl.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 270,
+                        "endColumn": 122,
+                        "endOffset": 388
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 81,
+                    "startColumn": 4,
+                    "startOffset": 5312,
+                    "endColumn": 106,
+                    "endOffset": 5414
+                },
+                "from": {
+                    "file": "D:\\styleru.org\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\values-sl\\values-sl.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 393,
+                        "endColumn": 106,
+                        "endOffset": 495
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 82,
+                    "startColumn": 4,
+                    "startOffset": 5419,
+                    "endColumn": 107,
+                    "endOffset": 5522
+                },
+                "from": {
+                    "file": "D:\\styleru.org\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\values-sl\\values-sl.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 500,
+                        "endColumn": 107,
+                        "endOffset": 603
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 83,
+                    "startColumn": 4,
+                    "startOffset": 5527,
+                    "endColumn": 86,
+                    "endOffset": 5609
+                },
+                "from": {
+                    "file": "D:\\styleru.org\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\values-sl\\values-sl.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 608,
+                        "endColumn": 86,
+                        "endOffset": 690
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 84,
+                    "startColumn": 4,
+                    "startOffset": 5614,
+                    "endColumn": 102,
+                    "endOffset": 5712
+                },
+                "from": {
+                    "file": "D:\\styleru.org\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\values-sl\\values-sl.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 695,
+                        "endColumn": 102,
+                        "endOffset": 793
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 85,
+                    "startColumn": 4,
+                    "startOffset": 5717,
+                    "endColumn": 118,
+                    "endOffset": 5831
+                },
+                "from": {
+                    "file": "D:\\styleru.org\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\values-sl\\values-sl.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 798,
+                        "endColumn": 118,
+                        "endOffset": 912
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 86,
+                    "startColumn": 4,
+                    "startOffset": 5836,
+                    "endColumn": 84,
+                    "endOffset": 5916
+                },
+                "from": {
+                    "file": "D:\\styleru.org\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\values-sl\\values-sl.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 917,
+                        "endColumn": 84,
+                        "endOffset": 997
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 87,
+                    "startColumn": 4,
+                    "startOffset": 5921,
+                    "endColumn": 83,
+                    "endOffset": 6000
+                },
+                "from": {
+                    "file": "D:\\styleru.org\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\values-sl\\values-sl.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1002,
+                        "endColumn": 83,
+                        "endOffset": 1081
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 88,
+                    "startColumn": 4,
+                    "startOffset": 6005,
+                    "endColumn": 83,
+                    "endOffset": 6084
+                },
+                "from": {
+                    "file": "D:\\styleru.org\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\values-sl\\values-sl.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1086,
+                        "endColumn": 83,
+                        "endOffset": 1165
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 89,
+                    "startColumn": 4,
+                    "startOffset": 6089,
+                    "endColumn": 107,
+                    "endOffset": 6192
+                },
+                "from": {
+                    "file": "D:\\styleru.org\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\values-sl\\values-sl.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1170,
+                        "endColumn": 107,
+                        "endOffset": 1273
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 90,
+                    "startColumn": 4,
+                    "startOffset": 6197,
+                    "endColumn": 108,
+                    "endOffset": 6301
+                },
+                "from": {
+                    "file": "D:\\styleru.org\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\values-sl\\values-sl.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1278,
+                        "endColumn": 108,
+                        "endOffset": 1382
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 91,
+                    "startColumn": 4,
+                    "startOffset": 6306,
+                    "endColumn": 99,
+                    "endOffset": 6401
+                },
+                "from": {
+                    "file": "D:\\styleru.org\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\values-sl\\values-sl.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1387,
+                        "endColumn": 99,
+                        "endOffset": 1482
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 92,
+                    "startColumn": 4,
+                    "startOffset": 6406,
+                    "endColumn": 112,
+                    "endOffset": 6514
+                },
+                "from": {
+                    "file": "D:\\styleru.org\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\values-sl\\values-sl.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1487,
+                        "endColumn": 112,
+                        "endOffset": 1595
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 93,
+                    "startColumn": 4,
+                    "startOffset": 6519,
+                    "endColumn": 106,
+                    "endOffset": 6621
+                },
+                "from": {
+                    "file": "D:\\styleru.org\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\values-sl\\values-sl.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1600,
+                        "endColumn": 106,
+                        "endOffset": 1702
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 94,
+                    "startColumn": 4,
+                    "startOffset": 6626,
+                    "endColumn": 103,
+                    "endOffset": 6725
+                },
+                "from": {
+                    "file": "D:\\styleru.org\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\values-sl\\values-sl.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1707,
+                        "endColumn": 103,
+                        "endOffset": 1806
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 95,
+                    "startColumn": 4,
+                    "startOffset": 6730,
+                    "endColumn": 116,
+                    "endOffset": 6842
+                },
+                "from": {
+                    "file": "D:\\styleru.org\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\values-sl\\values-sl.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1811,
+                        "endColumn": 116,
+                        "endOffset": 1923
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 96,
+                    "startColumn": 4,
+                    "startOffset": 6847,
+                    "endColumn": 96,
+                    "endOffset": 6939
+                },
+                "from": {
+                    "file": "D:\\styleru.org\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\values-sl\\values-sl.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1928,
+                        "endColumn": 96,
+                        "endOffset": 2020
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 97,
+                    "startColumn": 4,
+                    "startOffset": 6944,
+                    "endColumn": 260,
+                    "endOffset": 7200
+                },
+                "from": {
+                    "file": "D:\\styleru.org\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-sl\\base_strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 3508,
+                        "endColumn": 264,
+                        "endOffset": 3768
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 98,
+                    "startColumn": 4,
+                    "startOffset": 7205,
+                    "endColumn": 128,
+                    "endOffset": 7329
+                },
+                "from": {
+                    "file": "D:\\styleru.org\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-sl\\base_strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 1346,
+                        "endColumn": 128,
+                        "endOffset": 1470
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 99,
+                    "startColumn": 4,
+                    "startOffset": 7334,
+                    "endColumn": 196,
+                    "endOffset": 7526
+                },
+                "from": {
+                    "file": "D:\\styleru.org\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-sl\\base_strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 1145,
+                        "endColumn": 200,
+                        "endOffset": 1341
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 100,
+                    "startColumn": 4,
+                    "startOffset": 7531,
+                    "endColumn": 130,
+                    "endOffset": 7657
+                },
+                "from": {
+                    "file": "D:\\styleru.org\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-sl\\base_strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 1014,
+                        "endColumn": 130,
+                        "endOffset": 1140
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 101,
+                    "startColumn": 4,
+                    "startOffset": 7662,
+                    "endColumn": 129,
+                    "endOffset": 7787
+                },
+                "from": {
+                    "file": "D:\\styleru.org\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-sl\\base_strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 884,
+                        "endColumn": 129,
+                        "endOffset": 1009
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 102,
+                    "startColumn": 4,
+                    "startOffset": 7792,
+                    "endColumn": 212,
+                    "endOffset": 8000
+                },
+                "from": {
+                    "file": "D:\\styleru.org\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-sl\\base_strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 436,
+                        "endColumn": 216,
+                        "endOffset": 648
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 103,
+                    "startColumn": 4,
+                    "startOffset": 8005,
+                    "endColumn": 226,
+                    "endOffset": 8227
+                },
+                "from": {
+                    "file": "D:\\styleru.org\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-sl\\base_strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 653,
+                        "endColumn": 230,
+                        "endOffset": 879
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 104,
+                    "startColumn": 4,
+                    "startOffset": 8232,
+                    "endColumn": 131,
+                    "endOffset": 8359
+                },
+                "from": {
+                    "file": "D:\\styleru.org\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-sl\\base_strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 304,
+                        "endColumn": 131,
+                        "endOffset": 431
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 105,
+                    "startColumn": 4,
+                    "startOffset": 8364,
+                    "endColumn": 160,
+                    "endOffset": 8520
+                },
+                "from": {
+                    "file": "D:\\styleru.org\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-sl\\base_strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 2762,
+                        "endColumn": 160,
+                        "endOffset": 2918
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 106,
+                    "startColumn": 4,
+                    "startOffset": 8525,
+                    "endColumn": 121,
+                    "endOffset": 8642
+                },
+                "from": {
+                    "file": "D:\\styleru.org\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-sl\\base_strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 2640,
+                        "endColumn": 121,
+                        "endOffset": 2757
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 107,
+                    "startColumn": 4,
+                    "startOffset": 8647,
+                    "endColumn": 174,
+                    "endOffset": 8817
+                },
+                "from": {
+                    "file": "D:\\styleru.org\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-sl\\base_strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 2465,
+                        "endColumn": 174,
+                        "endOffset": 2635
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 108,
+                    "startColumn": 4,
+                    "startOffset": 8822,
+                    "endColumn": 120,
+                    "endOffset": 8938
+                },
+                "from": {
+                    "file": "D:\\styleru.org\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-sl\\base_strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 2344,
+                        "endColumn": 120,
+                        "endOffset": 2460
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 109,
+                    "startColumn": 4,
+                    "startOffset": 8943,
+                    "endColumn": 133,
+                    "endOffset": 9072
+                },
+                "from": {
+                    "file": "D:\\styleru.org\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-sl\\base_strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 170,
+                        "endColumn": 133,
+                        "endOffset": 299
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 110,
+                    "startColumn": 4,
+                    "startOffset": 9077,
+                    "endColumn": 164,
+                    "endOffset": 9237
+                },
+                "from": {
+                    "file": "D:\\styleru.org\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-sl\\base_strings.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 4183,
+                        "endColumn": 164,
+                        "endOffset": 4343
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 111,
+                    "startColumn": 4,
+                    "startOffset": 9242,
+                    "endColumn": 124,
+                    "endOffset": 9362
+                },
+                "from": {
+                    "file": "D:\\styleru.org\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-sl\\base_strings.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 4058,
+                        "endColumn": 124,
+                        "endOffset": 4178
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 112,
+                    "startColumn": 4,
+                    "startOffset": 9367,
+                    "endColumn": 159,
+                    "endOffset": 9522
+                },
+                "from": {
+                    "file": "D:\\styleru.org\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-sl\\base_strings.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 3898,
+                        "endColumn": 159,
+                        "endOffset": 4053
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 113,
+                    "startColumn": 4,
+                    "startOffset": 9527,
+                    "endColumn": 124,
+                    "endOffset": 9647
+                },
+                "from": {
+                    "file": "D:\\styleru.org\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-sl\\base_strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 3773,
+                        "endColumn": 124,
+                        "endOffset": 3893
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 114,
+                    "startColumn": 4,
+                    "startOffset": 9652,
+                    "endColumn": 245,
+                    "endOffset": 9893
+                },
+                "from": {
+                    "file": "D:\\styleru.org\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.4.0\\res\\values-sl\\common_strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 170,
+                        "endColumn": 249,
+                        "endOffset": 415
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 115,
+                    "startColumn": 4,
+                    "startOffset": 9898,
+                    "endColumn": 248,
+                    "endOffset": 10142
+                },
+                "from": {
+                    "file": "D:\\styleru.org\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-sl\\base_strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 3047,
+                        "endColumn": 252,
+                        "endOffset": 3295
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 116,
+                    "startColumn": 4,
+                    "startOffset": 10147,
+                    "endColumn": 123,
+                    "endOffset": 10266
+                },
+                "from": {
+                    "file": "D:\\styleru.org\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-sl\\base_strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 2923,
+                        "endColumn": 123,
+                        "endOffset": 3042
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 117,
+                    "startColumn": 4,
+                    "startOffset": 10271,
+                    "endColumn": 108,
+                    "endOffset": 10375
+                },
+                "from": {
+                    "file": "D:\\styleru.org\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-sl\\base_strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 3300,
+                        "endColumn": 108,
+                        "endOffset": 3404
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 118,
+                    "startColumn": 4,
+                    "startOffset": 10380,
+                    "endColumn": 197,
+                    "endOffset": 10573
+                },
+                "from": {
+                    "file": "D:\\styleru.org\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-sl\\base_strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1607,
+                        "endColumn": 201,
+                        "endOffset": 1804
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 119,
+                    "startColumn": 4,
+                    "startOffset": 10578,
+                    "endColumn": 131,
+                    "endOffset": 10705
+                },
+                "from": {
+                    "file": "D:\\styleru.org\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-sl\\base_strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1475,
+                        "endColumn": 131,
+                        "endOffset": 1602
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 120,
+                    "startColumn": 4,
+                    "startOffset": 10710,
+                    "endColumn": 210,
+                    "endOffset": 10916
+                },
+                "from": {
+                    "file": "D:\\styleru.org\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-sl\\base_strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 2129,
+                        "endColumn": 214,
+                        "endOffset": 2339
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 121,
+                    "startColumn": 4,
+                    "startOffset": 10921,
+                    "endColumn": 137,
+                    "endOffset": 11054
+                },
+                "from": {
+                    "file": "D:\\styleru.org\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-sl\\base_strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1991,
+                        "endColumn": 137,
+                        "endOffset": 2124
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 122,
+                    "startColumn": 4,
+                    "startOffset": 11059,
+                    "endColumn": 181,
+                    "endOffset": 11236
+                },
+                "from": {
+                    "file": "D:\\styleru.org\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-sl\\base_strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1809,
+                        "endColumn": 181,
+                        "endOffset": 1986
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 123,
+                    "startColumn": 4,
+                    "startOffset": 11241,
+                    "endColumn": 98,
+                    "endOffset": 11335
+                },
+                "from": {
+                    "file": "D:\\styleru.org\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-sl\\base_strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 3409,
+                        "endColumn": 98,
+                        "endOffset": 3503
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 124,
+                    "startColumn": 4,
+                    "startOffset": 11340,
+                    "endColumn": 91,
+                    "endOffset": 11427
+                },
+                "from": {
+                    "file": "D:\\styleru.org\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-sl\\base_strings.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 4348,
+                        "endColumn": 91,
+                        "endOffset": 4435
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 125,
+                    "startColumn": 4,
+                    "startOffset": 11432,
+                    "endColumn": 113,
+                    "endOffset": 11541
+                },
+                "from": {
+                    "file": "D:\\styleru.org\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-sl\\base_strings.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 4440,
+                        "endColumn": 113,
+                        "endOffset": 4549
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 126,
+                    "startColumn": 4,
+                    "startOffset": 11546,
+                    "endColumn": 65,
+                    "endOffset": 11607
+                },
+                "from": {
+                    "file": "D:\\styleru.org\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\net.danlew\\android.joda\\2.9.5.1\\res\\values-sl\\values-sl.xml",
+                    "position": {
+                        "startLine": 78,
+                        "startColumn": 4,
+                        "startOffset": 4974,
+                        "endColumn": 65,
+                        "endOffset": 5035
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 127,
+                    "startColumn": 4,
+                    "startOffset": 11612,
+                    "endColumn": 129,
+                    "endOffset": 11737
+                },
+                "from": {
+                    "file": "D:\\styleru.org\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\net.danlew\\android.joda\\2.9.5.1\\res\\values-sl\\values-sl.xml",
+                    "position": {
+                        "startLine": 79,
+                        "startColumn": 4,
+                        "startOffset": 5040,
+                        "endColumn": 129,
+                        "endOffset": 5165
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 128,
+                    "startColumn": 4,
+                    "startOffset": 11742,
+                    "endColumn": 127,
+                    "endOffset": 11865
+                },
+                "from": {
+                    "file": "D:\\styleru.org\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\net.danlew\\android.joda\\2.9.5.1\\res\\values-sl\\values-sl.xml",
+                    "position": {
+                        "startLine": 80,
+                        "startColumn": 4,
+                        "startOffset": 5170,
+                        "endColumn": 127,
+                        "endOffset": 5293
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 129,
+                    "startColumn": 4,
+                    "startOffset": 11870,
+                    "endColumn": 150,
+                    "endOffset": 12016
+                },
+                "from": {
+                    "file": "D:\\styleru.org\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\net.danlew\\android.joda\\2.9.5.1\\res\\values-sl\\values-sl.xml",
+                    "position": {
+                        "startLine": 81,
+                        "startColumn": 4,
+                        "startOffset": 5298,
+                        "endColumn": 150,
+                        "endOffset": 5444
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 130,
+                    "startColumn": 4,
+                    "startOffset": 12021,
+                    "endColumn": 82,
+                    "endOffset": 12099
+                },
+                "from": {
+                    "file": "D:\\styleru.org\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\values-sl\\values-sl.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 2025,
+                        "endColumn": 82,
+                        "endOffset": 2103
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 131,
+                    "startColumn": 4,
+                    "startOffset": 12104,
+                    "endColumn": 100,
+                    "endOffset": 12200
+                },
+                "from": {
+                    "file": "D:\\styleru.org\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\values-sl\\values-sl.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 2108,
+                        "endColumn": 100,
+                        "endOffset": 2204
+                    }
+                }
+            }
+        ]
+    },
+    {
         "outputFile": "D:\\styleru_app\\StyleruApp2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sl\\values-sl.xml",
         "map": [
             {

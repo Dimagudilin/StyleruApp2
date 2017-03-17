@@ -33,7 +33,6 @@ public class PeopleFragment extends Fragment {
     // TODO: Rename and change types of parameters
     private String mParam1;
     private String mParam2;
-    AllPeopleFragment frag1;
     PersonFragment frag2;
     FragmentTransaction fTrans;
     TabLayout tabLayout;
@@ -79,24 +78,10 @@ public class PeopleFragment extends Fragment {
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
 
-        View view = inflater.inflate(R.layout.fragment_profile, container, false);
+        View view = inflater.inflate(R.layout.fragment_people, container, false);
         MainActivity activity = (MainActivity) getActivity();
         Toolbar toolbar = (Toolbar) activity.findViewById(R.id.toolbar);
         toolbar.setTitle("Люди");
-        tabLayout = (TabLayout) view.findViewById(R.id.tabLayout);
-        viewPager = (ViewPager) view.findViewById(R.id.viewPager);
-        viewPagerAdapter = new ViewPagerAdapter(getActivity().getSupportFragmentManager());
-        Log.d("FRAG","supman");
-        viewPagerAdapter.addFragments(new PersonFragment(),"Мой профиль");
-        Log.d("FRAG","adfr1");
-        viewPagerAdapter.addFragments(new AllPeopleFragment(),"Все люди");
-        Log.d("FRAG","adfr2");
-        viewPager.setAdapter(viewPagerAdapter);
-        Log.d("FRAG","adfr3");
-        tabLayout.setupWithViewPager(viewPager);
-        Log.d("FRAG","adfr4");
-
-
 
         // Inflate the layout for this fragment
         return view;
@@ -127,13 +112,6 @@ public class PeopleFragment extends Fragment {
     public void onDestroyView() {
         super.onDestroyView();
 
-        Log.d("FRAG","desview1");
-        viewPagerAdapter = new ViewPagerAdapter(getActivity().getSupportFragmentManager());
-        Log.d("FRAG","fr1");
-
-        Log.d("FRAG","fr2");
-        viewPagerAdapter.destroyItem(new PersonFragment());
-        viewPagerAdapter.destroyItem(new AllPeopleFragment());
         Log.d("FRAG","desview2");
     //    getActivity().getSupportFragmentManager().beginTransaction().remove(this).commit();
     //    tabLayout.setupWithViewPager(viewPager);

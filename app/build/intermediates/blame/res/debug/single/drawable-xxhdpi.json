@@ -1,43 +1,39 @@
 [
     {
+        "merged": "D:\\styleru.org\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\common_google_signin_btn_icon_dark_normal.9.png",
+        "source": "D:\\styleru.org\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xxhdpi\\common_google_signin_btn_icon_dark_normal.9.png"
+    },
+    {
         "merged": "D:\\styleru_app\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\common_google_signin_btn_text_dark_pressed.9.png",
         "source": "D:\\styleru_app\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xxhdpi\\common_google_signin_btn_text_dark_pressed.9.png"
+    },
+    {
+        "merged": "D:\\styleru.org\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_explore.png",
+        "source": "D:\\styleru.org\\StyleruApp2\\app\\src\\main\\res\\drawable-xxhdpi\\ic_explore.png"
+    },
+    {
+        "merged": "D:\\styleru.org\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\common_plus_signin_btn_text_light_pressed.9.png",
+        "source": "D:\\styleru.org\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xxhdpi\\common_plus_signin_btn_text_light_pressed.9.png"
     },
     {
         "merged": "D:\\styleru_app\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_explore.png",
         "source": "D:\\styleru_app\\StyleruApp2\\app\\src\\main\\res\\drawable-xxhdpi\\ic_explore.png"
     },
     {
-        "merged": "D:\\styleru_app\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\common_plus_signin_btn_icon_light_disabled.9.png",
-        "source": "D:\\styleru_app\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xxhdpi\\common_plus_signin_btn_icon_light_disabled.9.png"
-    },
-    {
-        "merged": "D:\\styleru_app\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\common_plus_signin_btn_icon_light_pressed.9.png",
-        "source": "D:\\styleru_app\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xxhdpi\\common_plus_signin_btn_icon_light_pressed.9.png"
-    },
-    {
-        "merged": "D:\\styleru_app\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\common_plus_signin_btn_text_dark_disabled.9.png",
-        "source": "D:\\styleru_app\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xxhdpi\\common_plus_signin_btn_text_dark_disabled.9.png"
-    },
-    {
-        "merged": "D:\\styleru_app\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\common_plus_signin_btn_text_light_normal.9.png",
-        "source": "D:\\styleru_app\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xxhdpi\\common_plus_signin_btn_text_light_normal.9.png"
-    },
-    {
-        "merged": "D:\\styleru_app\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\common_google_signin_btn_text_light_pressed.9.png",
-        "source": "D:\\styleru_app\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xxhdpi\\common_google_signin_btn_text_light_pressed.9.png"
+        "merged": "D:\\styleru.org\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\common_plus_signin_btn_text_light_normal.9.png",
+        "source": "D:\\styleru.org\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xxhdpi\\common_plus_signin_btn_text_light_normal.9.png"
     },
     {
         "merged": "D:\\styleru_app\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\common_google_signin_btn_text_light_focused.9.png",
         "source": "D:\\styleru_app\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xxhdpi\\common_google_signin_btn_text_light_focused.9.png"
     },
     {
-        "merged": "D:\\styleru_app\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\common_plus_signin_btn_text_dark_pressed.9.png",
-        "source": "D:\\styleru_app\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xxhdpi\\common_plus_signin_btn_text_dark_pressed.9.png"
-    },
-    {
         "merged": "D:\\styleru_app\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\common_google_signin_btn_icon_light_normal.9.png",
         "source": "D:\\styleru_app\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xxhdpi\\common_google_signin_btn_icon_light_normal.9.png"
+    },
+    {
+        "merged": "D:\\styleru.org\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\common_plus_signin_btn_text_dark_normal.9.png",
+        "source": "D:\\styleru.org\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xxhdpi\\common_plus_signin_btn_text_dark_normal.9.png"
     },
     {
         "merged": "D:\\styleru_app\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\common_google_signin_btn_text_dark_normal.9.png",
@@ -48,16 +44,8 @@
         "source": "D:\\styleru_app\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xxhdpi\\common_google_signin_btn_text_light_normal.9.png"
     },
     {
-        "merged": "D:\\styleru_app\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\common_google_signin_btn_icon_light_focused.9.png",
-        "source": "D:\\styleru_app\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xxhdpi\\common_google_signin_btn_icon_light_focused.9.png"
-    },
-    {
-        "merged": "D:\\styleru_app\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_presentation.png",
-        "source": "D:\\styleru_app\\StyleruApp2\\app\\src\\main\\res\\drawable-xxhdpi\\ic_presentation.png"
-    },
-    {
-        "merged": "D:\\styleru_app\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_clock.png",
-        "source": "D:\\styleru_app\\StyleruApp2\\app\\src\\main\\res\\drawable-xxhdpi\\ic_clock.png"
+        "merged": "D:\\styleru.org\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_presentation.png",
+        "source": "D:\\styleru.org\\StyleruApp2\\app\\src\\main\\res\\drawable-xxhdpi\\ic_presentation.png"
     },
     {
         "merged": "D:\\styleru_app\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\common_plus_signin_btn_text_dark_normal.9.png",
@@ -72,28 +60,32 @@
         "source": "D:\\styleru_app\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xxhdpi\\common_google_signin_btn_icon_dark_disabled.9.png"
     },
     {
-        "merged": "D:\\styleru_app\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\common_plus_signin_btn_text_dark_focused.9.png",
-        "source": "D:\\styleru_app\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xxhdpi\\common_plus_signin_btn_text_dark_focused.9.png"
+        "merged": "D:\\styleru.org\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_calendar.png",
+        "source": "D:\\styleru.org\\StyleruApp2\\app\\src\\main\\res\\drawable-xxhdpi\\ic_calendar.png"
     },
     {
-        "merged": "D:\\styleru_app\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\common_full_open_on_phone.png",
-        "source": "D:\\styleru_app\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xxhdpi\\common_full_open_on_phone.png"
-    },
-    {
-        "merged": "D:\\styleru_app\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\common_plus_signin_btn_icon_light_normal.9.png",
-        "source": "D:\\styleru_app\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xxhdpi\\common_plus_signin_btn_icon_light_normal.9.png"
+        "merged": "D:\\styleru.org\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\common_google_signin_btn_text_dark_normal.9.png",
+        "source": "D:\\styleru.org\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xxhdpi\\common_google_signin_btn_text_dark_normal.9.png"
     },
     {
         "merged": "D:\\styleru_app\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\common_plus_signin_btn_icon_dark_disabled.9.png",
         "source": "D:\\styleru_app\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xxhdpi\\common_plus_signin_btn_icon_dark_disabled.9.png"
     },
     {
+        "merged": "D:\\styleru.org\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_location.png",
+        "source": "D:\\styleru.org\\StyleruApp2\\app\\src\\main\\res\\drawable-xxhdpi\\ic_location.png"
+    },
+    {
+        "merged": "D:\\styleru.org\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\common_plus_signin_btn_text_dark_focused.9.png",
+        "source": "D:\\styleru.org\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xxhdpi\\common_plus_signin_btn_text_dark_focused.9.png"
+    },
+    {
         "merged": "D:\\styleru_app\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\common_google_signin_btn_icon_light_pressed.9.png",
         "source": "D:\\styleru_app\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xxhdpi\\common_google_signin_btn_icon_light_pressed.9.png"
     },
     {
-        "merged": "D:\\styleru_app\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\common_google_signin_btn_text_dark_disabled.9.png",
-        "source": "D:\\styleru_app\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xxhdpi\\common_google_signin_btn_text_dark_disabled.9.png"
+        "merged": "D:\\styleru.org\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\common_plus_signin_btn_text_light_disabled.9.png",
+        "source": "D:\\styleru.org\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xxhdpi\\common_plus_signin_btn_text_light_disabled.9.png"
     },
     {
         "merged": "D:\\styleru_app\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\common_plus_signin_btn_text_light_focused.9.png",
@@ -104,28 +96,56 @@
         "source": "D:\\styleru_app\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xxhdpi\\common_google_signin_btn_text_dark_focused.9.png"
     },
     {
+        "merged": "D:\\styleru.org\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\common_google_signin_btn_icon_dark_disabled.9.png",
+        "source": "D:\\styleru.org\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xxhdpi\\common_google_signin_btn_icon_dark_disabled.9.png"
+    },
+    {
+        "merged": "D:\\styleru.org\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\placeholder_sample.png",
+        "source": "D:\\styleru.org\\StyleruApp2\\app\\src\\main\\res\\drawable-xxhdpi\\placeholder_sample.png"
+    },
+    {
+        "merged": "D:\\styleru.org\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\common_plus_signin_btn_text_dark_disabled.9.png",
+        "source": "D:\\styleru.org\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xxhdpi\\common_plus_signin_btn_text_dark_disabled.9.png"
+    },
+    {
+        "merged": "D:\\styleru.org\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\common_google_signin_btn_text_light_focused.9.png",
+        "source": "D:\\styleru.org\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xxhdpi\\common_google_signin_btn_text_light_focused.9.png"
+    },
+    {
+        "merged": "D:\\styleru.org\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_clock.png",
+        "source": "D:\\styleru.org\\StyleruApp2\\app\\src\\main\\res\\drawable-xxhdpi\\ic_clock.png"
+    },
+    {
         "merged": "D:\\styleru_app\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\common_google_signin_btn_icon_dark_focused.9.png",
         "source": "D:\\styleru_app\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xxhdpi\\common_google_signin_btn_icon_dark_focused.9.png"
+    },
+    {
+        "merged": "D:\\styleru.org\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\common_full_open_on_phone.png",
+        "source": "D:\\styleru.org\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xxhdpi\\common_full_open_on_phone.png"
     },
     {
         "merged": "D:\\styleru_app\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_greater_calendar.png",
         "source": "D:\\styleru_app\\StyleruApp2\\app\\src\\main\\res\\drawable-xxhdpi\\ic_greater_calendar.png"
     },
     {
-        "merged": "D:\\styleru_app\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\common_plus_signin_btn_icon_dark_pressed.9.png",
-        "source": "D:\\styleru_app\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xxhdpi\\common_plus_signin_btn_icon_dark_pressed.9.png"
+        "merged": "D:\\styleru.org\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\common_plus_signin_btn_icon_light_disabled.9.png",
+        "source": "D:\\styleru.org\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xxhdpi\\common_plus_signin_btn_icon_light_disabled.9.png"
     },
     {
         "merged": "D:\\styleru_app\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_avatar.png",
         "source": "D:\\styleru_app\\StyleruApp2\\app\\src\\main\\res\\drawable-xxhdpi\\ic_avatar.png"
     },
     {
-        "merged": "D:\\styleru_app\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\common_plus_signin_btn_icon_dark_focused.9.png",
-        "source": "D:\\styleru_app\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xxhdpi\\common_plus_signin_btn_icon_dark_focused.9.png"
+        "merged": "D:\\styleru.org\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\common_google_signin_btn_text_dark_focused.9.png",
+        "source": "D:\\styleru.org\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xxhdpi\\common_google_signin_btn_text_dark_focused.9.png"
     },
     {
-        "merged": "D:\\styleru_app\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\placeholder_loading.png",
-        "source": "D:\\styleru_app\\StyleruApp2\\app\\src\\main\\res\\drawable-xxhdpi\\placeholder_loading.png"
+        "merged": "D:\\styleru.org\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\common_plus_signin_btn_icon_dark_focused.9.png",
+        "source": "D:\\styleru.org\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xxhdpi\\common_plus_signin_btn_icon_dark_focused.9.png"
+    },
+    {
+        "merged": "D:\\styleru_app\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\common_plus_signin_btn_icon_dark_focused.9.png",
+        "source": "D:\\styleru_app\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xxhdpi\\common_plus_signin_btn_icon_dark_focused.9.png"
     },
     {
         "merged": "D:\\styleru_app\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_location.png",
@@ -136,20 +156,152 @@
         "source": "D:\\styleru_app\\StyleruApp2\\app\\src\\main\\res\\drawable-xxhdpi\\ic_button_go_0.png"
     },
     {
-        "merged": "D:\\styleru_app\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\common_google_signin_btn_text_light_disabled.9.png",
-        "source": "D:\\styleru_app\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xxhdpi\\common_google_signin_btn_text_light_disabled.9.png"
+        "merged": "D:\\styleru.org\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_avatar.png",
+        "source": "D:\\styleru.org\\StyleruApp2\\app\\src\\main\\res\\drawable-xxhdpi\\ic_avatar.png"
     },
     {
-        "merged": "D:\\styleru_app\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\common_plus_signin_btn_icon_light_focused.9.png",
-        "source": "D:\\styleru_app\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xxhdpi\\common_plus_signin_btn_icon_light_focused.9.png"
+        "merged": "D:\\styleru_app\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\common_google_signin_btn_text_light_disabled.9.png",
+        "source": "D:\\styleru_app\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xxhdpi\\common_google_signin_btn_text_light_disabled.9.png"
     },
     {
         "merged": "D:\\styleru_app\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\common_plus_signin_btn_text_light_disabled.9.png",
         "source": "D:\\styleru_app\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xxhdpi\\common_plus_signin_btn_text_light_disabled.9.png"
     },
     {
+        "merged": "D:\\styleru.org\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\common_google_signin_btn_icon_light_pressed.9.png",
+        "source": "D:\\styleru.org\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xxhdpi\\common_google_signin_btn_icon_light_pressed.9.png"
+    },
+    {
+        "merged": "D:\\styleru.org\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_greater_calendar.png",
+        "source": "D:\\styleru.org\\StyleruApp2\\app\\src\\main\\res\\drawable-xxhdpi\\ic_greater_calendar.png"
+    },
+    {
+        "merged": "D:\\styleru.org\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\common_plus_signin_btn_icon_dark_normal.9.png",
+        "source": "D:\\styleru.org\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xxhdpi\\common_plus_signin_btn_icon_dark_normal.9.png"
+    },
+    {
+        "merged": "D:\\styleru.org\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\common_plus_signin_btn_icon_light_normal.9.png",
+        "source": "D:\\styleru.org\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xxhdpi\\common_plus_signin_btn_icon_light_normal.9.png"
+    },
+    {
+        "merged": "D:\\styleru.org\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\common_google_signin_btn_icon_dark_focused.9.png",
+        "source": "D:\\styleru.org\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xxhdpi\\common_google_signin_btn_icon_dark_focused.9.png"
+    },
+    {
+        "merged": "D:\\styleru.org\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\common_plus_signin_btn_icon_light_focused.9.png",
+        "source": "D:\\styleru.org\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xxhdpi\\common_plus_signin_btn_icon_light_focused.9.png"
+    },
+    {
+        "merged": "D:\\styleru.org\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\placeholder_loading.png",
+        "source": "D:\\styleru.org\\StyleruApp2\\app\\src\\main\\res\\drawable-xxhdpi\\placeholder_loading.png"
+    },
+    {
+        "merged": "D:\\styleru_app\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\common_plus_signin_btn_icon_light_disabled.9.png",
+        "source": "D:\\styleru_app\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xxhdpi\\common_plus_signin_btn_icon_light_disabled.9.png"
+    },
+    {
+        "merged": "D:\\styleru_app\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\common_plus_signin_btn_icon_light_pressed.9.png",
+        "source": "D:\\styleru_app\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xxhdpi\\common_plus_signin_btn_icon_light_pressed.9.png"
+    },
+    {
+        "merged": "D:\\styleru_app\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\common_plus_signin_btn_text_dark_disabled.9.png",
+        "source": "D:\\styleru_app\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xxhdpi\\common_plus_signin_btn_text_dark_disabled.9.png"
+    },
+    {
+        "merged": "D:\\styleru.org\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\common_google_signin_btn_icon_light_normal.9.png",
+        "source": "D:\\styleru.org\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xxhdpi\\common_google_signin_btn_icon_light_normal.9.png"
+    },
+    {
+        "merged": "D:\\styleru_app\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\common_plus_signin_btn_text_light_normal.9.png",
+        "source": "D:\\styleru_app\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xxhdpi\\common_plus_signin_btn_text_light_normal.9.png"
+    },
+    {
+        "merged": "D:\\styleru_app\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\common_google_signin_btn_text_light_pressed.9.png",
+        "source": "D:\\styleru_app\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xxhdpi\\common_google_signin_btn_text_light_pressed.9.png"
+    },
+    {
+        "merged": "D:\\styleru_app\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\common_plus_signin_btn_text_dark_pressed.9.png",
+        "source": "D:\\styleru_app\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xxhdpi\\common_plus_signin_btn_text_dark_pressed.9.png"
+    },
+    {
+        "merged": "D:\\styleru.org\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_button_go_0.png",
+        "source": "D:\\styleru.org\\StyleruApp2\\app\\src\\main\\res\\drawable-xxhdpi\\ic_button_go_0.png"
+    },
+    {
+        "merged": "D:\\styleru_app\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\common_google_signin_btn_icon_light_focused.9.png",
+        "source": "D:\\styleru_app\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xxhdpi\\common_google_signin_btn_icon_light_focused.9.png"
+    },
+    {
+        "merged": "D:\\styleru_app\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_presentation.png",
+        "source": "D:\\styleru_app\\StyleruApp2\\app\\src\\main\\res\\drawable-xxhdpi\\ic_presentation.png"
+    },
+    {
+        "merged": "D:\\styleru_app\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_clock.png",
+        "source": "D:\\styleru_app\\StyleruApp2\\app\\src\\main\\res\\drawable-xxhdpi\\ic_clock.png"
+    },
+    {
+        "merged": "D:\\styleru.org\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\common_google_signin_btn_text_light_normal.9.png",
+        "source": "D:\\styleru.org\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xxhdpi\\common_google_signin_btn_text_light_normal.9.png"
+    },
+    {
+        "merged": "D:\\styleru_app\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\common_plus_signin_btn_text_dark_focused.9.png",
+        "source": "D:\\styleru_app\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xxhdpi\\common_plus_signin_btn_text_dark_focused.9.png"
+    },
+    {
+        "merged": "D:\\styleru_app\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\common_full_open_on_phone.png",
+        "source": "D:\\styleru_app\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xxhdpi\\common_full_open_on_phone.png"
+    },
+    {
+        "merged": "D:\\styleru.org\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\common_google_signin_btn_icon_light_disabled.9.png",
+        "source": "D:\\styleru.org\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xxhdpi\\common_google_signin_btn_icon_light_disabled.9.png"
+    },
+    {
+        "merged": "D:\\styleru_app\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\common_plus_signin_btn_icon_light_normal.9.png",
+        "source": "D:\\styleru_app\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xxhdpi\\common_plus_signin_btn_icon_light_normal.9.png"
+    },
+    {
+        "merged": "D:\\styleru_app\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\common_google_signin_btn_text_dark_disabled.9.png",
+        "source": "D:\\styleru_app\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xxhdpi\\common_google_signin_btn_text_dark_disabled.9.png"
+    },
+    {
+        "merged": "D:\\styleru_app\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\common_plus_signin_btn_icon_dark_pressed.9.png",
+        "source": "D:\\styleru_app\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xxhdpi\\common_plus_signin_btn_icon_dark_pressed.9.png"
+    },
+    {
+        "merged": "D:\\styleru.org\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\common_plus_signin_btn_icon_dark_pressed.9.png",
+        "source": "D:\\styleru.org\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xxhdpi\\common_plus_signin_btn_icon_dark_pressed.9.png"
+    },
+    {
+        "merged": "D:\\styleru_app\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\placeholder_loading.png",
+        "source": "D:\\styleru_app\\StyleruApp2\\app\\src\\main\\res\\drawable-xxhdpi\\placeholder_loading.png"
+    },
+    {
+        "merged": "D:\\styleru_app\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\common_plus_signin_btn_icon_light_focused.9.png",
+        "source": "D:\\styleru_app\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xxhdpi\\common_plus_signin_btn_icon_light_focused.9.png"
+    },
+    {
+        "merged": "D:\\styleru.org\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\common_google_signin_btn_text_dark_disabled.9.png",
+        "source": "D:\\styleru.org\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xxhdpi\\common_google_signin_btn_text_dark_disabled.9.png"
+    },
+    {
+        "merged": "D:\\styleru.org\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\common_plus_signin_btn_icon_dark_disabled.9.png",
+        "source": "D:\\styleru.org\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xxhdpi\\common_plus_signin_btn_icon_dark_disabled.9.png"
+    },
+    {
+        "merged": "D:\\styleru.org\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\common_google_signin_btn_text_dark_pressed.9.png",
+        "source": "D:\\styleru.org\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xxhdpi\\common_google_signin_btn_text_dark_pressed.9.png"
+    },
+    {
         "merged": "D:\\styleru_app\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\common_plus_signin_btn_text_light_pressed.9.png",
         "source": "D:\\styleru_app\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xxhdpi\\common_plus_signin_btn_text_light_pressed.9.png"
+    },
+    {
+        "merged": "D:\\styleru.org\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\common_google_signin_btn_icon_light_focused.9.png",
+        "source": "D:\\styleru.org\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xxhdpi\\common_google_signin_btn_icon_light_focused.9.png"
+    },
+    {
+        "merged": "D:\\styleru.org\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\common_plus_signin_btn_text_light_focused.9.png",
+        "source": "D:\\styleru.org\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xxhdpi\\common_plus_signin_btn_text_light_focused.9.png"
     },
     {
         "merged": "D:\\styleru_app\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\placeholder_sample.png",
@@ -160,8 +312,24 @@
         "source": "D:\\styleru_app\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xxhdpi\\common_google_signin_btn_icon_dark_pressed.9.png"
     },
     {
+        "merged": "D:\\styleru.org\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\common_google_signin_btn_text_light_pressed.9.png",
+        "source": "D:\\styleru.org\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xxhdpi\\common_google_signin_btn_text_light_pressed.9.png"
+    },
+    {
+        "merged": "D:\\styleru.org\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\common_google_signin_btn_text_light_disabled.9.png",
+        "source": "D:\\styleru.org\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xxhdpi\\common_google_signin_btn_text_light_disabled.9.png"
+    },
+    {
+        "merged": "D:\\styleru.org\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\common_plus_signin_btn_icon_light_pressed.9.png",
+        "source": "D:\\styleru.org\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xxhdpi\\common_plus_signin_btn_icon_light_pressed.9.png"
+    },
+    {
         "merged": "D:\\styleru_app\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\common_google_signin_btn_icon_dark_normal.9.png",
         "source": "D:\\styleru_app\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xxhdpi\\common_google_signin_btn_icon_dark_normal.9.png"
+    },
+    {
+        "merged": "D:\\styleru.org\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\common_google_signin_btn_icon_dark_pressed.9.png",
+        "source": "D:\\styleru.org\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xxhdpi\\common_google_signin_btn_icon_dark_pressed.9.png"
     },
     {
         "merged": "D:\\styleru_app\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_calendar.png",
@@ -170,5 +338,9 @@
     {
         "merged": "D:\\styleru_app\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\common_plus_signin_btn_icon_dark_normal.9.png",
         "source": "D:\\styleru_app\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xxhdpi\\common_plus_signin_btn_icon_dark_normal.9.png"
+    },
+    {
+        "merged": "D:\\styleru.org\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\common_plus_signin_btn_text_dark_pressed.9.png",
+        "source": "D:\\styleru.org\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-xxhdpi\\common_plus_signin_btn_text_dark_pressed.9.png"
     }
 ]

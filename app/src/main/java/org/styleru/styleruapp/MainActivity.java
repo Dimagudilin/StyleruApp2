@@ -17,6 +17,7 @@ import com.google.android.gms.common.api.GoogleApiClient;
 import org.styleru.styleruapp.view.fragments.DirectionsFragment;
 import org.styleru.styleruapp.view.fragments.EventsFragment;
 import org.styleru.styleruapp.view.fragments.PeopleFragment;
+import org.styleru.styleruapp.view.fragments.PersonFragment;
 import org.styleru.styleruapp.view.fragments.ProjectsFragment;
 
 import butterknife.BindView;
@@ -28,6 +29,7 @@ public class MainActivity extends AppCompatActivity
     private EventsFragment eventsFragment;
     private PeopleFragment peopleFragment;
     private ProjectsFragment projectsFragment;
+    private PersonFragment personFragment;
 
     @BindView(R.id.toolbar)
     public Toolbar toolbar;
@@ -64,6 +66,8 @@ public class MainActivity extends AppCompatActivity
         eventsFragment = new EventsFragment();
         peopleFragment = new PeopleFragment();
         projectsFragment = new ProjectsFragment();
+        projectsFragment = new ProjectsFragment();
+        personFragment = new PersonFragment();
         final android.support.v4.app.FragmentTransaction transaction
                 = getSupportFragmentManager().beginTransaction();
         transaction.replace(R.id.container, new EventsFragment());
@@ -123,7 +127,10 @@ public class MainActivity extends AppCompatActivity
         } else if (id == R.id.nav_events) {
             transaction.replace(R.id.container, new EventsFragment());
 
-        }
+        } else if (id == R.id.nav_profile) {
+        transaction.replace(R.id.container, new PersonFragment());
+
+    }
         transaction.commit();
 
         DrawerLayout drawer = (DrawerLayout) findViewById(R.id.drawer_layout);

@@ -1,0 +1,27 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingTop="5dp">
+    <!--tools:context="org.styleru.styleruapp.view.fragments.AllPeopleFragment">-->
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_height="match_parent"
+        android:layout_width="match_parent"
+        android:paddingLeft="0dp"
+        android:paddingRight="0dp">
+        <include
+            android:id="@+id/d1"
+            layout="@layout/card_people"
+            />
+        <include
+            android:id="@+id/d1"
+            layout="@layout/card_people"
+            />
+        <include
+            android:id="@+id/d1"
+            layout="@layout/card_people"
+            />
+    </LinearLayout>
+</FrameLayout>
