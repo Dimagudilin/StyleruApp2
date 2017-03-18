@@ -32,16 +32,16 @@
         "source": "D:\\styleru.org\\StyleruApp2\\app\\src\\main\\res\\layout\\fragment_departments.xml"
     },
     {
-        "merged": "D:\\styleru.org\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
-        "source": "D:\\styleru.org\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.1\\res\\layout\\design_layout_tab_icon.xml"
+        "merged": "D:\\styleru_app\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\styleru_app\\StyleruApp2\\app\\src\\main\\res\\layout\\activity_main.xml"
     },
     {
         "merged": "D:\\styleru.org\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\card_people.xml",
         "source": "D:\\styleru.org\\StyleruApp2\\app\\src\\main\\res\\layout\\card_people.xml"
     },
     {
-        "merged": "D:\\styleru_app\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
-        "source": "D:\\styleru_app\\StyleruApp2\\app\\src\\main\\res\\layout\\activity_main.xml"
+        "merged": "D:\\styleru.org\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "D:\\styleru.org\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.1\\res\\layout\\design_layout_tab_icon.xml"
     },
     {
         "merged": "D:\\styleru_app\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\preference_list_fragment.xml",
@@ -84,12 +84,12 @@
         "source": "D:\\styleru.org\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.1\\res\\layout\\design_navigation_item_subheader.xml"
     },
     {
-        "merged": "D:\\styleru.org\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
-        "source": "D:\\styleru.org\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.1\\res\\layout\\design_layout_snackbar_include.xml"
-    },
-    {
         "merged": "D:\\styleru_app\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
         "source": "D:\\styleru_app\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "D:\\styleru.org\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "D:\\styleru.org\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.1\\res\\layout\\design_layout_snackbar_include.xml"
     },
     {
         "merged": "D:\\styleru_app\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
@@ -106,10 +106,6 @@
     {
         "merged": "D:\\styleru.org\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\preference_widget_switch.xml",
         "source": "D:\\styleru.org\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\preference-v14\\25.1.1\\res\\layout\\preference_widget_switch.xml"
-    },
-    {
-        "merged": "D:\\styleru.org\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_profile_all.xml",
-        "source": "D:\\styleru.org\\StyleruApp2\\app\\src\\main\\res\\layout\\fragment_profile_all.xml"
     },
     {
         "merged": "D:\\styleru_app\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
@@ -150,6 +146,10 @@
     {
         "merged": "D:\\styleru_app\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
         "source": "D:\\styleru_app\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "D:\\styleru.org\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\card_profile_direction.xml",
+        "source": "D:\\styleru.org\\StyleruApp2\\app\\src\\main\\res\\layout\\card_profile_direction.xml"
     },
     {
         "merged": "D:\\styleru_app\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
@@ -432,6 +432,10 @@
         "source": "D:\\styleru.org\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\layout\\notification_template_media.xml"
     },
     {
+        "merged": "D:\\styleru.org\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_people.xml",
+        "source": "D:\\styleru.org\\StyleruApp2\\app\\src\\main\\res\\layout\\fragment_people.xml"
+    },
+    {
         "merged": "D:\\styleru_app\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\preference_widget_switch_compat.xml",
         "source": "D:\\styleru_app\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\preference-v7\\25.1.1\\res\\layout\\preference_widget_switch_compat.xml"
     },
@@ -552,6 +556,10 @@
         "source": "D:\\styleru.org\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
     },
     {
+        "merged": "D:\\styleru.org\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_profile_projects.xml",
+        "source": "D:\\styleru.org\\StyleruApp2\\app\\src\\main\\res\\layout\\fragment_profile_projects.xml"
+    },
+    {
         "merged": "D:\\styleru.org\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
         "source": "D:\\styleru.org\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
     },
@@ -586,6 +594,10 @@
     {
         "merged": "D:\\styleru.org\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\card_event_vol_2.xml",
         "source": "D:\\styleru.org\\StyleruApp2\\app\\src\\main\\res\\layout\\card_event_vol_2.xml"
+    },
+    {
+        "merged": "D:\\styleru.org\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_profile_timeline.xml",
+        "source": "D:\\styleru.org\\StyleruApp2\\app\\src\\main\\res\\layout\\fragment_profile_timeline.xml"
     },
     {
         "merged": "D:\\styleru_app\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
