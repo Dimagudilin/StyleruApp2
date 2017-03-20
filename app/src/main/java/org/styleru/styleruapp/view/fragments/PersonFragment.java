@@ -105,11 +105,11 @@ public class PersonFragment extends Fragment {
 
 
 
-        viewPager = (ViewPager) view.findViewById(R.id.viewpager_profile);
-        setupViewPager(viewPager);
 
+        viewPager = (ViewPager) view.findViewById(R.id.viewpager_profile);
         tabLayout = (TabLayout) view.findViewById(R.id.sliding_tabs_profile);
         tabLayout.setupWithViewPager(viewPager);
+        setupViewPager(viewPager);
 
 return view;
     }
@@ -123,9 +123,9 @@ return view;
 
     private void setupViewPager(ViewPager viewPager) {
         ViewPagerAdapter adapter = new ViewPagerAdapter(getActivity().getSupportFragmentManager());
-        adapter.addFragment(new PersonFragment_myprof(), "People");
-        adapter.addFragment(new PersonFragment_projects(), "Group");
-        adapter.addFragment(new PersonFragment_timeline(), "Calls");
+        adapter.addFragment(new PersonFragment_myprof(), "Профиль");
+        adapter.addFragment(new PersonFragment_projects(), "Проекты");
+        adapter.addFragment(new PersonFragment_timeline(), "Таймлайн");
         viewPager.setAdapter(adapter);
     }
 

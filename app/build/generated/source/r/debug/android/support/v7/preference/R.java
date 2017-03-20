@@ -500,10 +500,10 @@ public final class R {
 		public static final int notification_subtext_size = 0x7f0a0093;
 		public static final int notification_top_pad = 0x7f0a0094;
 		public static final int notification_top_pad_large_text = 0x7f0a0095;
-		public static final int preference_icon_minWidth = 0x7f0a0096;
-		public static final int preference_seekbar_padding_end = 0x7f0a0097;
-		public static final int preference_seekbar_padding_start = 0x7f0a0098;
-		public static final int preference_seekbar_value_width = 0x7f0a0099;
+		public static final int preference_icon_minWidth = 0x7f0a0097;
+		public static final int preference_seekbar_padding_end = 0x7f0a0098;
+		public static final int preference_seekbar_padding_start = 0x7f0a0099;
+		public static final int preference_seekbar_value_width = 0x7f0a009a;
 	}
 	public static final class drawable {
 		public static final int abc_ab_share_pack_mtrl_alpha = 0x7f020000;
@@ -818,8 +818,8 @@ public final class R {
 		public static final int abc_toolbar_collapse_description = 0x7f090012;
 		public static final int search_menu_title = 0x7f090034;
 		public static final int status_bar_notification_info_overflow = 0x7f090035;
-		public static final int v7_preference_off = 0x7f090052;
-		public static final int v7_preference_on = 0x7f090053;
+		public static final int v7_preference_off = 0x7f090053;
+		public static final int v7_preference_on = 0x7f090054;
 	}
 	public static final class style {
 		public static final int AlertDialog_AppCompat = 0x7f0b00a6;

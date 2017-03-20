@@ -7,6 +7,7 @@
     <dimen name="activity_vertical_margin">0dp</dimen>
     <dimen name="fab_margin">60dp</dimen>
     <dimen name="anya_margin">16dp</dimen>
+    <dimen name="padding_tabs_profile">65dp</dimen>
 
     <dimen name="event_image_margin">16dp</dimen>
     <dimen name="event_image_height">160dp</dimen>
