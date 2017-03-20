@@ -5,8 +5,8 @@
     density="hdpi"
     format="8"
     plugin-version="2.2.3"
-    timestamp="44237724132445"
-    token="8090970671686935474"
+    timestamp="216720737584301"
+    token="-1893282641839909833"
     verifier="COMPATIBLE" >
 
     <task
@@ -27,18 +27,18 @@
         type="RESOURCES" />
 
     <build
-        timestamp="44115054837984"
+        timestamp="216599456736098"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="D:\styleru.org\StyleruApp2\app\build\outputs\apk\app-debug.apk"
             type="MAIN" />
     </build>
     <build
-        timestamp="540327208685266"
-        verifier="FULL_BUILD_REQUESTED" >
+        timestamp="216720737584301"
+        verifier="COMPATIBLE" >
         <artifact
-            location="D:\styleru.org\StyleruApp2\app\build\outputs\apk\app-debug.apk"
-            type="MAIN" />
+            location="D:\styleru.org\StyleruApp2\app\build\intermediates\instant-run-resources\resources-debug.ir.ap_"
+            type="RESOURCES" />
     </build>
 
 </instant-run>

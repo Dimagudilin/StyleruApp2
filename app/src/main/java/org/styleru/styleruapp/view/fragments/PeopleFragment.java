@@ -14,7 +14,7 @@ import android.view.ViewGroup;
 
 import org.styleru.styleruapp.MainActivity;
 import org.styleru.styleruapp.R;
-import org.styleru.styleruapp.view.adapter.tab.ViewPagerAdapter;
+import org.styleru.styleruapp.view.adapter.tab.ViewPagerAdapter2;
 
 /**
  * A simple {@link Fragment} subclass.
@@ -33,11 +33,11 @@ public class PeopleFragment extends Fragment {
     // TODO: Rename and change types of parameters
     private String mParam1;
     private String mParam2;
-    PersonFragment frag2;
+    PersonFragment_myprof frag2;
     FragmentTransaction fTrans;
     TabLayout tabLayout;
     ViewPager viewPager;
-    ViewPagerAdapter viewPagerAdapter;
+    ViewPagerAdapter2 viewPagerAdapter;
     private OnFragmentInteractionListener mListener;
 
     public PeopleFragment() {

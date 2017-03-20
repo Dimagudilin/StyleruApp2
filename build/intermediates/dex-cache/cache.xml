@@ -3,15 +3,6 @@
 
     <item
         is-multidex="false"
-        jar="D:\styleru.org\StyleruApp2\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
-        <dex dex="D:\styleru.org\StyleruApp2\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.1.1_db51f070f8ad2a61279c33c8ef393c5cdd4c1d60.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="C:\Users\Пользователь\.gradle\caches\modules-2\files-2.1\joda-time\joda-time\2.9.6\e380a3ea2f421f6bf6e9091a75694f04720eed2\joda-time-2.9.6-no-tzdb.jar"
         jumboMode="true"
         optimize="true"
@@ -27,15 +18,6 @@
         revision="25.0.2"
         sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
         <dex dex="D:\styleru_app\StyleruApp2\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.1.1_dd07b29cca61c3e21b308324d2ba64c121bb44a0.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="D:\styleru.org\StyleruApp2\app\build\intermediates\exploded-aar\com.jakewharton\butterknife\8.5.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="19f281a785ca0eb5f6799fc7bf7ca199a9ca1e8b">
-        <dex dex="D:\styleru.org\StyleruApp2\app\build\intermediates\pre-dexed\debug\com.jakewharton-butterknife-8.5.1_49562fe7e600ab0738e084cf8f0338d55dd986ba.jar" />
     </item>
     <item
         is-multidex="false"
@@ -63,6 +45,267 @@
         revision="25.0.2"
         sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
         <dex dex="D:\styleru_app\StyleruApp2\app\build\intermediates\pre-dexed\debug\glide-3.7.0_62302bdf1369aef53932c359c2f7fc13fedd6ec9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\styleru.org\StyleruApp2\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="D:\styleru.org\StyleruApp2\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.1.1_6531a0829f0fabc9d252078518083e1c22511234.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\styleru.org\StyleruApp2\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c9649557905bf7a80fca9e0d54cbcb7662627860">
+        <dex dex="D:\styleru.org\StyleruApp2\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-25.1.1_8ff41d806a0c6426594510d953a16b7533d1079f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Пользователь\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife-annotations\8.5.1\bb67dad90bab7cd77a8f7f1b8442b47e3a2326bc\butterknife-annotations-8.5.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bb67dad90bab7cd77a8f7f1b8442b47e3a2326bc">
+        <dex dex="D:\styleru_app\StyleruApp2\app\build\intermediates\pre-dexed\debug\butterknife-annotations-8.5.1_db1fda6e9aca7fa25bc23108936b49de3d3635e8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\styleru_app\StyleruApp2\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\styleru_app\StyleruApp2\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.1.1_06e5f552e70c83576c33c7fee02f426532796e92.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\styleru.org\StyleruApp2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="D:\styleru.org\StyleruApp2\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-8.4.0_ab999124be00918e1eda709492159260ba10225f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\styleru_app\StyleruApp2\app\build\intermediates\exploded-aar\io.reactivex.rxjava2\rxandroid\2.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4119ea97a7191ff9b8f33b534ea220448f62f491">
+        <dex dex="D:\styleru_app\StyleruApp2\app\build\intermediates\pre-dexed\debug\io.reactivex.rxjava2-rxandroid-2.0.1_78e38d7a0ee4727aa56785c94c8187d622d112b6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\styleru.org\StyleruApp2\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="D:\styleru.org\StyleruApp2\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.1.1_b5d5bb897dbf49b2d0ea830cc33087df6f44d6bd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\styleru_app\StyleruApp2\app\build\intermediates\exploded-aar\net.danlew\android.joda\2.9.5.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6c877b2c372dd26a46a0fe1c0fe07f186fb2ac26">
+        <dex dex="D:\styleru_app\StyleruApp2\app\build\intermediates\pre-dexed\debug\net.danlew-android.joda-2.9.5.1_8c85de2f42e6c9e1e64e92ebfdbbe04b1986dee2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\styleru_app\StyleruApp2\app\build\intermediates\exploded-aar\com.android.support\transition\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="15b049fedbd8e3926bf99d9e45dfc9b2a1043bb9">
+        <dex dex="D:\styleru_app\StyleruApp2\app\build\intermediates\pre-dexed\debug\com.android.support-transition-25.1.1_32a6ae7ce8ecac2bfd669d6d4a1f5e93960885ed.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\styleru_app\StyleruApp2\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c9649557905bf7a80fca9e0d54cbcb7662627860">
+        <dex dex="D:\styleru_app\StyleruApp2\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-25.1.1_bfed076a8304b66af1bd29d5d5571518b58e6297.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\styleru_app\StyleruApp2\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="D:\styleru_app\StyleruApp2\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.1.1_97e82aac375113894f8f44985291b3a1ecce25e6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\styleru_app\StyleruApp2\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="D:\styleru_app\StyleruApp2\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.1.1_941caa462bc36fe4b0eea7669e3200dd25ab27c9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\styleru.org\StyleruApp2\app\build\intermediates\exploded-aar\com.android.support\preference-v14\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="082eaf5a8bebe68f147526f16ae3a3e1b40e391e">
+        <dex dex="D:\styleru.org\StyleruApp2\app\build\intermediates\pre-dexed\debug\com.android.support-preference-v14-25.1.1_8980cc9bcb62b6b376f2d0c1a3bf6145b63f2a93.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\styleru_app\StyleruApp2\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="86ae5d7b23923b31ebd2adfcb3d637c2caa5fe17">
+        <dex dex="D:\styleru_app\StyleruApp2\app\build\intermediates\pre-dexed\debug\instant-run_d62d5085b2ce41965b5246f47bc58e4244acb580.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\1\extras\android\m2repository\com\android\support\support-annotations\25.1.1\support-annotations-25.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="D:\styleru_app\StyleruApp2\app\build\intermediates\pre-dexed\debug\support-annotations-25.1.1_e1c1c381d25d376d1d59ea15b9c00f4f8282931a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\styleru_app\StyleruApp2\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="D:\styleru_app\StyleruApp2\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.1.1_0f278f15c1e97ee4a9883a56394c4d019936393e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Пользователь\.gradle\caches\modules-2\files-2.1\org.ocpsoft.prettytime\prettytime\4.0.0.Final\72bec9d6b648dd4e0b51d15c5008070205613559\prettytime-4.0.0.Final.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="72bec9d6b648dd4e0b51d15c5008070205613559">
+        <dex dex="D:\styleru_app\StyleruApp2\app\build\intermediates\pre-dexed\debug\prettytime-4.0.0.Final_699b7b4e491db25dabb603b6791e1d77d7be7f26.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\styleru.org\StyleruApp2\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a8ae156c2726ac9c56daaf4b49452ec2cdb7bba9">
+        <dex dex="D:\styleru.org\StyleruApp2\app\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-25.1.1_bb948ce53cee0f4ee5d0bcb49a6a3bf42172fcfa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Пользователь\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.1.0\2de7cd8b95b7021b1d597f049bcb422055119f2c\retrofit-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="D:\styleru_app\StyleruApp2\app\build\intermediates\pre-dexed\debug\retrofit-2.1.0_81279818f095aab42fb7007829ac2ba64b217789.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Пользователь\.gradle\caches\modules-2\files-2.1\javax.inject\javax.inject\1\6975da39a7040257bd51d21a231b76c915872d38\javax.inject-1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="D:\styleru_app\StyleruApp2\app\build\intermediates\pre-dexed\debug\javax.inject-1_85fa2bbd5e6c9d3f293bb013c519f74b856fb8c5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\styleru_app\StyleruApp2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
+        <dex dex="D:\styleru_app\StyleruApp2\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-appindexing-8.4.0_e008fbd25d8df317693bb75692b7e55392dce58e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\styleru_app\StyleruApp2\app\build\intermediates\exploded-aar\com.android.support\design\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cd7951e04cfb9a8bf008d544a478d9a8d8192d38">
+        <dex dex="D:\styleru_app\StyleruApp2\app\build\intermediates\pre-dexed\debug\com.android.support-design-25.1.1_757c191d48cb3f95366cafd92e6dd3481ed84077.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\styleru.org\StyleruApp2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
+        <dex dex="D:\styleru.org\StyleruApp2\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-appindexing-8.4.0_2ad9e52d87f911e0d08e025b965c23c6bef4aa0a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\styleru.org\StyleruApp2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="D:\styleru.org\StyleruApp2\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-8.4.0_8c969e121a37be59ba5b0eac34c167b8c4fafc0b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\styleru.org\StyleruApp2\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="D:\styleru.org\StyleruApp2\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.1.1_0f533d8999aa84f8df7c4f9bfc6acfa2e660debf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\styleru.org\StyleruApp2\app\build\intermediates\exploded-aar\com.android.support\transition\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="15b049fedbd8e3926bf99d9e45dfc9b2a1043bb9">
+        <dex dex="D:\styleru.org\StyleruApp2\app\build\intermediates\pre-dexed\debug\com.android.support-transition-25.1.1_42e8fb6be5262bee6e0bedd5c225a3c0f567c713.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\styleru_app\StyleruApp2\app\build\intermediates\exploded-aar\com.jakewharton\butterknife\8.5.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="19f281a785ca0eb5f6799fc7bf7ca199a9ca1e8b">
+        <dex dex="D:\styleru_app\StyleruApp2\app\build\intermediates\pre-dexed\debug\com.jakewharton-butterknife-8.5.1_b5b69c6cb0792f4c617100e9f392b037ba5c0037.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\styleru.org\StyleruApp2\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="D:\styleru.org\StyleruApp2\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.1.1_db51f070f8ad2a61279c33c8ef393c5cdd4c1d60.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\styleru.org\StyleruApp2\app\build\intermediates\exploded-aar\com.jakewharton\butterknife\8.5.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="19f281a785ca0eb5f6799fc7bf7ca199a9ca1e8b">
+        <dex dex="D:\styleru.org\StyleruApp2\app\build\intermediates\pre-dexed\debug\com.jakewharton-butterknife-8.5.1_49562fe7e600ab0738e084cf8f0338d55dd986ba.jar" />
     </item>
     <item
         is-multidex="false"
@@ -138,24 +381,6 @@
     </item>
     <item
         is-multidex="false"
-        jar="D:\styleru.org\StyleruApp2\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
-        <dex dex="D:\styleru.org\StyleruApp2\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.1.1_6531a0829f0fabc9d252078518083e1c22511234.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="D:\styleru.org\StyleruApp2\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.1.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="c9649557905bf7a80fca9e0d54cbcb7662627860">
-        <dex dex="D:\styleru.org\StyleruApp2\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-25.1.1_8ff41d806a0c6426594510d953a16b7533d1079f.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="C:\Users\Пользователь\.gradle\caches\modules-2\files-2.1\com.google.dagger\dagger\2.8\55a1aa1cdcfd06b9950ca856e2bc2790e105146a\dagger-2.8.jar"
         jumboMode="true"
         optimize="true"
@@ -174,30 +399,12 @@
     </item>
     <item
         is-multidex="false"
-        jar="C:\Users\Пользователь\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife-annotations\8.5.1\bb67dad90bab7cd77a8f7f1b8442b47e3a2326bc\butterknife-annotations-8.5.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="bb67dad90bab7cd77a8f7f1b8442b47e3a2326bc">
-        <dex dex="D:\styleru_app\StyleruApp2\app\build\intermediates\pre-dexed\debug\butterknife-annotations-8.5.1_db1fda6e9aca7fa25bc23108936b49de3d3635e8.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="D:\styleru_app\StyleruApp2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.4.0\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
         <dex dex="D:\styleru_app\StyleruApp2\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-8.4.0_133b9ddebdd0117718c9342e094a798074ca2cb4.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="D:\styleru_app\StyleruApp2\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="D:\styleru_app\StyleruApp2\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.1.1_06e5f552e70c83576c33c7fee02f426532796e92.jar" />
     </item>
     <item
         is-multidex="false"
@@ -210,48 +417,12 @@
     </item>
     <item
         is-multidex="false"
-        jar="D:\styleru.org\StyleruApp2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
-        <dex dex="D:\styleru.org\StyleruApp2\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-8.4.0_ab999124be00918e1eda709492159260ba10225f.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="D:\styleru_app\StyleruApp2\app\build\intermediates\exploded-aar\io.reactivex.rxjava2\rxandroid\2.0.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="4119ea97a7191ff9b8f33b534ea220448f62f491">
-        <dex dex="D:\styleru_app\StyleruApp2\app\build\intermediates\pre-dexed\debug\io.reactivex.rxjava2-rxandroid-2.0.1_78e38d7a0ee4727aa56785c94c8187d622d112b6.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="D:\styleru_app\StyleruApp2\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="c4d7f0f8f8c99d47f434e04de414cb487ba2f9fd">
         <dex dex="D:\styleru_app\StyleruApp2\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_e47eecd59f25653ee3cd628e96a0276cdc1407ef.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="D:\styleru.org\StyleruApp2\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
-        <dex dex="D:\styleru.org\StyleruApp2\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.1.1_b5d5bb897dbf49b2d0ea830cc33087df6f44d6bd.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="D:\styleru_app\StyleruApp2\app\build\intermediates\exploded-aar\net.danlew\android.joda\2.9.5.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="6c877b2c372dd26a46a0fe1c0fe07f186fb2ac26">
-        <dex dex="D:\styleru_app\StyleruApp2\app\build\intermediates\pre-dexed\debug\net.danlew-android.joda-2.9.5.1_8c85de2f42e6c9e1e64e92ebfdbbe04b1986dee2.jar" />
     </item>
     <item
         is-multidex="false"
@@ -264,24 +435,6 @@
     </item>
     <item
         is-multidex="false"
-        jar="D:\styleru_app\StyleruApp2\app\build\intermediates\exploded-aar\com.android.support\transition\25.1.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="15b049fedbd8e3926bf99d9e45dfc9b2a1043bb9">
-        <dex dex="D:\styleru_app\StyleruApp2\app\build\intermediates\pre-dexed\debug\com.android.support-transition-25.1.1_32a6ae7ce8ecac2bfd669d6d4a1f5e93960885ed.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="D:\styleru_app\StyleruApp2\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.1.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="c9649557905bf7a80fca9e0d54cbcb7662627860">
-        <dex dex="D:\styleru_app\StyleruApp2\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-25.1.1_bfed076a8304b66af1bd29d5d5571518b58e6297.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="D:\styleru.org\StyleruApp2\app\build\intermediates\exploded-aar\com.android.support\design\25.1.1\jars\classes.jar"
         jumboMode="true"
         optimize="true"
@@ -291,66 +444,12 @@
     </item>
     <item
         is-multidex="false"
-        jar="D:\styleru_app\StyleruApp2\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
-        <dex dex="D:\styleru_app\StyleruApp2\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.1.1_97e82aac375113894f8f44985291b3a1ecce25e6.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="D:\styleru_app\StyleruApp2\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
-        <dex dex="D:\styleru_app\StyleruApp2\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.1.1_941caa462bc36fe4b0eea7669e3200dd25ab27c9.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="D:\styleru.org\StyleruApp2\app\build\intermediates\exploded-aar\com.android.support\preference-v14\25.1.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="082eaf5a8bebe68f147526f16ae3a3e1b40e391e">
-        <dex dex="D:\styleru.org\StyleruApp2\app\build\intermediates\pre-dexed\debug\com.android.support-preference-v14-25.1.1_8980cc9bcb62b6b376f2d0c1a3bf6145b63f2a93.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="D:\styleru_app\StyleruApp2\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="86ae5d7b23923b31ebd2adfcb3d637c2caa5fe17">
-        <dex dex="D:\styleru_app\StyleruApp2\app\build\intermediates\pre-dexed\debug\instant-run_d62d5085b2ce41965b5246f47bc58e4244acb580.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="C:\Users\Пользователь\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.7\751f548c85fa49f330cecbb1875893f971b33c4e\gson-2.7.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
         <dex dex="D:\styleru_app\StyleruApp2\app\build\intermediates\pre-dexed\debug\gson-2.7_7591514a1cb8d41e1beba1f2d8650f836593ffe4.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="D:\1\extras\android\m2repository\com\android\support\support-annotations\25.1.1\support-annotations-25.1.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
-        <dex dex="D:\styleru_app\StyleruApp2\app\build\intermediates\pre-dexed\debug\support-annotations-25.1.1_e1c1c381d25d376d1d59ea15b9c00f4f8282931a.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="D:\styleru_app\StyleruApp2\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
-        <dex dex="D:\styleru_app\StyleruApp2\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.1.1_0f278f15c1e97ee4a9883a56394c4d019936393e.jar" />
     </item>
     <item
         is-multidex="false"
@@ -378,15 +477,6 @@
         revision="25.0.2"
         sha1="9078293943d0cf69b4111b7c141456b522a463c1">
         <dex dex="D:\styleru_app\StyleruApp2\app\build\intermediates\pre-dexed\debug\com.android.support-preference-v7-25.1.1_3769efc5a972c576ad06267a84cdd4691d35f7de.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Пользователь\.gradle\caches\modules-2\files-2.1\org.ocpsoft.prettytime\prettytime\4.0.0.Final\72bec9d6b648dd4e0b51d15c5008070205613559\prettytime-4.0.0.Final.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="72bec9d6b648dd4e0b51d15c5008070205613559">
-        <dex dex="D:\styleru_app\StyleruApp2\app\build\intermediates\pre-dexed\debug\prettytime-4.0.0.Final_699b7b4e491db25dabb603b6791e1d77d7be7f26.jar" />
     </item>
     <item
         is-multidex="false"
@@ -426,66 +516,12 @@
     </item>
     <item
         is-multidex="false"
-        jar="D:\styleru.org\StyleruApp2\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\25.1.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="a8ae156c2726ac9c56daaf4b49452ec2cdb7bba9">
-        <dex dex="D:\styleru.org\StyleruApp2\app\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-25.1.1_bb948ce53cee0f4ee5d0bcb49a6a3bf42172fcfa.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Пользователь\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.1.0\2de7cd8b95b7021b1d597f049bcb422055119f2c\retrofit-2.1.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
-        <dex dex="D:\styleru_app\StyleruApp2\app\build\intermediates\pre-dexed\debug\retrofit-2.1.0_81279818f095aab42fb7007829ac2ba64b217789.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Пользователь\.gradle\caches\modules-2\files-2.1\javax.inject\javax.inject\1\6975da39a7040257bd51d21a231b76c915872d38\javax.inject-1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="6975da39a7040257bd51d21a231b76c915872d38">
-        <dex dex="D:\styleru_app\StyleruApp2\app\build\intermediates\pre-dexed\debug\javax.inject-1_85fa2bbd5e6c9d3f293bb013c519f74b856fb8c5.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="D:\styleru_app\StyleruApp2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.4.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
-        <dex dex="D:\styleru_app\StyleruApp2\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-appindexing-8.4.0_e008fbd25d8df317693bb75692b7e55392dce58e.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="D:\styleru_app\StyleruApp2\app\build\intermediates\exploded-aar\com.android.support\design\25.1.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="cd7951e04cfb9a8bf008d544a478d9a8d8192d38">
-        <dex dex="D:\styleru_app\StyleruApp2\app\build\intermediates\pre-dexed\debug\com.android.support-design-25.1.1_757c191d48cb3f95366cafd92e6dd3481ed84077.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="D:\styleru.org\StyleruApp2\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="2f245ba6e10be04da05be65354f8a33ae964cd3e">
+        sha1="ad31f250397f222a364c93a9d41845a082752c07">
         <dex dex="D:\styleru.org\StyleruApp2\app\build\intermediates\pre-dexed\debug\instant-run_95b2115d054c02c6162c7747a0a3a78e808fa57f.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="D:\styleru.org\StyleruApp2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.4.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
-        <dex dex="D:\styleru.org\StyleruApp2\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-appindexing-8.4.0_2ad9e52d87f911e0d08e025b965c23c6bef4aa0a.jar" />
     </item>
     <item
         is-multidex="false"
@@ -495,15 +531,6 @@
         revision="25.0.2"
         sha1="81887458b69ddc32722df7e4c35235fd74e6a8ba">
         <dex dex="D:\styleru_app\StyleruApp2\app\build\intermediates\pre-dexed\debug\logging-interceptor-3.6.0_810f6c58b28c6c2351d8c9b0033f95f2192aad15.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="D:\styleru.org\StyleruApp2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.4.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
-        <dex dex="D:\styleru.org\StyleruApp2\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-8.4.0_8c969e121a37be59ba5b0eac34c167b8c4fafc0b.jar" />
     </item>
     <item
         is-multidex="false"
@@ -525,39 +552,12 @@
     </item>
     <item
         is-multidex="false"
-        jar="D:\styleru.org\StyleruApp2\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
-        <dex dex="D:\styleru.org\StyleruApp2\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.1.1_0f533d8999aa84f8df7c4f9bfc6acfa2e660debf.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="D:\styleru.org\StyleruApp2\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="5f499d28d14bfcf853f4f48561af2619eaf644a6">
+        sha1="0fd83c83df1164576861720912f57ca52a0ab744">
         <dex dex="D:\styleru.org\StyleruApp2\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_51231cd193a0202927786ebde0201122a5e3d053.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="D:\styleru.org\StyleruApp2\app\build\intermediates\exploded-aar\com.android.support\transition\25.1.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="15b049fedbd8e3926bf99d9e45dfc9b2a1043bb9">
-        <dex dex="D:\styleru.org\StyleruApp2\app\build\intermediates\pre-dexed\debug\com.android.support-transition-25.1.1_42e8fb6be5262bee6e0bedd5c225a3c0f567c713.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="D:\styleru_app\StyleruApp2\app\build\intermediates\exploded-aar\com.jakewharton\butterknife\8.5.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="19f281a785ca0eb5f6799fc7bf7ca199a9ca1e8b">
-        <dex dex="D:\styleru_app\StyleruApp2\app\build\intermediates\pre-dexed\debug\com.jakewharton-butterknife-8.5.1_b5b69c6cb0792f4c617100e9f392b037ba5c0037.jar" />
     </item>
 
 </items>

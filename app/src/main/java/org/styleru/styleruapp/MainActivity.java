@@ -18,6 +18,7 @@ import org.styleru.styleruapp.view.fragments.DirectionsFragment;
 import org.styleru.styleruapp.view.fragments.EventsFragment;
 import org.styleru.styleruapp.view.fragments.PeopleFragment;
 import org.styleru.styleruapp.view.fragments.PersonFragment;
+import org.styleru.styleruapp.view.fragments.PersonFragment_myprof;
 import org.styleru.styleruapp.view.fragments.ProjectsFragment;
 
 import butterknife.BindView;
@@ -29,7 +30,7 @@ public class MainActivity extends AppCompatActivity
     private EventsFragment eventsFragment;
     private PeopleFragment peopleFragment;
     private ProjectsFragment projectsFragment;
-    private PersonFragment personFragment;
+    private PersonFragment_myprof personFragmentMyprof;
 
     @BindView(R.id.toolbar)
     public Toolbar toolbar;
@@ -67,7 +68,7 @@ public class MainActivity extends AppCompatActivity
         peopleFragment = new PeopleFragment();
         projectsFragment = new ProjectsFragment();
         projectsFragment = new ProjectsFragment();
-        personFragment = new PersonFragment();
+        personFragmentMyprof = new PersonFragment_myprof();
         final android.support.v4.app.FragmentTransaction transaction
                 = getSupportFragmentManager().beginTransaction();
         transaction.replace(R.id.container, new EventsFragment());

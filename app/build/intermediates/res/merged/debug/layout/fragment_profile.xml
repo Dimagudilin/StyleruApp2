@@ -1,40 +1,21 @@
-<FrameLayout
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
-    xmlns:android="http://schemas.android.com/apk/res/android"
-    android:orientation="vertical"
+    android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:layout_width="match_parent">
-        <!--<LinearLayout-->
-            <!--android:orientation="vertical"-->
-            <!--android:layout_height="match_parent"-->
-            <!--android:layout_width="match_parent"-->
-            <!--android:paddingLeft="0dp"-->
-            <!--android:paddingRight="0dp">-->
-            <!--<include-->
-                <!--android:id="@+id/d1"-->
-                <!--layout="@layout/card_people"-->
-                <!--/>-->
-            <!--<include-->
-                <!--android:id="@+id/d1"-->
-                <!--layout="@layout/card_people"-->
-                <!--/>-->
-            <!--<include-->
-                <!--android:id="@+id/d1"-->
-                <!--layout="@layout/card_people"-->
-                <!--/>-->
-        <!--</LinearLayout>-->
+    android:orientation="vertical">
+
         <android.support.design.widget.TabLayout
+            android:id="@+id/sliding_tabs_profile"
+            android:paddingTop="40dp"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/tabLayout"
-            app:tabGravity="fill">
-        </android.support.design.widget.TabLayout>
+            app:tabGravity="fill" />
+
         <android.support.v4.view.ViewPager
+            android:id="@+id/viewpager_profile"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
-            android:id="@+id/viewPager">
+            android:background="@android:color/white" />
 
-
-
-        </android.support.v4.view.ViewPager>
 </FrameLayout>

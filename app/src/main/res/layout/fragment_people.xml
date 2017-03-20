@@ -3,8 +3,9 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:paddingTop="5dp">
-    <!--tools:context="org.styleru.styleruapp.view.fragments.AllPeopleFragment">-->
-
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
     <LinearLayout
         android:orientation="vertical"
         android:layout_height="match_parent"
@@ -24,4 +25,5 @@
             layout="@layout/card_people"
             />
     </LinearLayout>
+    </ScrollView>
 </FrameLayout>
