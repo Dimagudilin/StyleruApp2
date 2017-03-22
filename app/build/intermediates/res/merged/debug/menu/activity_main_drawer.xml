@@ -10,6 +10,9 @@
             android:icon="@drawable/ic_avatar"
             android:title="Люди" />
         <item
+            android:id="@+id/nav_profile"
+            android:title="Профиль" />
+        <item
             android:id="@+id/nav_direct"
             android:icon="@drawable/ic_explore"
             android:title="Направления" />
@@ -17,7 +20,5 @@
             android:id="@+id/nav_projects"
             android:icon="@drawable/ic_presentation"
             android:title="Проекты" />
-        <item
-            android:id="@+id/nav_profile"
-            android:title="Профиль" />
+
 </menu>

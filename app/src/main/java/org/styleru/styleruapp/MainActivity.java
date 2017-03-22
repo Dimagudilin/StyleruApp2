@@ -52,6 +52,7 @@ public class MainActivity extends AppCompatActivity
 
         setSupportActionBar(toolbar);
         toolbar.setTitle("АКТИВИТИ");
+        getSupportActionBar().setElevation(0);
 
 
         ActionBarDrawerToggle toggle = new ActionBarDrawerToggle(

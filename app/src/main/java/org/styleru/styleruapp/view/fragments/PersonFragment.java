@@ -76,41 +76,15 @@ public class PersonFragment extends Fragment {
         View view = inflater.inflate(R.layout.fragment_profile, container, false);
         MainActivity activity = (MainActivity) getActivity();
         Toolbar toolbar = (Toolbar) activity.findViewById(R.id.toolbar);
-        toolbar.setTitle("Ваш профиль");
-
-        // Inflate the layout for this fragment
-
-//        viewPager = (ViewPager) view.findViewById(R.id.viewpager_profile);
-//        setupViewPager(viewPager);
-//
-//        tabLayout = (TabLayout) view.findViewById(R.id.sliding_tabs_profile);
-//        tabLayout.setupWithViewPager(viewPager);
-//        return view;
-//
-//
-//    }
-//
-//    private void setupViewPager(ViewPager viewPager) {
-//        ViewPagerAdapter adapter = new ViewPagerAdapter(getActivity().getSupportFragmentManager());
-//        adapter.addFragments(new PersonFragment_myprof(), "Мой");
-//        adapter.addFragments(new PersonFragment_projects(), "Проекты");
-//        adapter.addFragments(new PersonFragment_timeline(), "Время");
-//        viewPager.setAdapter(adapter);
-//    }
-//
-//}
-
-
-
-
-
+        toolbar.setTitle("Профиль");
 
 
         viewPager = (ViewPager) view.findViewById(R.id.viewpager_profile);
-        tabLayout = (TabLayout) view.findViewById(R.id.sliding_tabs_profile);
-        tabLayout.setupWithViewPager(viewPager);
         setupViewPager(viewPager);
 
+
+        tabLayout = (TabLayout) view.findViewById(R.id.sliding_tabs_profile);
+        tabLayout.setupWithViewPager(viewPager);
 return view;
     }
 

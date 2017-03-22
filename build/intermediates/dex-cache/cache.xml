@@ -520,7 +520,7 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="c71eb8e078c9aae39596af63325d8fc66a29dd28">
+        sha1="9eeec1b62316d69976149fc90ebd656256988318">
         <dex dex="D:\styleru.org\StyleruApp2\app\build\intermediates\pre-dexed\debug\instant-run_95b2115d054c02c6162c7747a0a3a78e808fa57f.jar" />
     </item>
     <item
@@ -556,7 +556,7 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="007b691169981a0bb972914c58c465fc5bbd74fa">
+        sha1="91dcf218ca42fe4fe489f574d89064de9d4e9d52">
         <dex dex="D:\styleru.org\StyleruApp2\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_51231cd193a0202927786ebde0201122a5e3d053.jar" />
     </item>
 

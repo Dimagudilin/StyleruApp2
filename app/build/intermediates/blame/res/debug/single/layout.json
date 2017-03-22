@@ -240,12 +240,20 @@
         "source": "D:\\styleru.org\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
     },
     {
+        "merged": "D:\\styleru.org\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\card_join.xml",
+        "source": "D:\\styleru.org\\StyleruApp2\\app\\src\\main\\res\\layout\\card_join.xml"
+    },
+    {
         "merged": "D:\\styleru.org\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
         "source": "D:\\styleru.org\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\layout\\select_dialog_singlechoice_material.xml"
     },
     {
         "merged": "D:\\styleru.org\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_profile_mine.xml",
         "source": "D:\\styleru.org\\StyleruApp2\\app\\src\\main\\res\\layout\\fragment_profile_mine.xml"
+    },
+    {
+        "merged": "D:\\styleru.org\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\card_time_now.xml",
+        "source": "D:\\styleru.org\\StyleruApp2\\app\\src\\main\\res\\layout\\card_time_now.xml"
     },
     {
         "merged": "D:\\styleru.org\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\preference_category.xml",

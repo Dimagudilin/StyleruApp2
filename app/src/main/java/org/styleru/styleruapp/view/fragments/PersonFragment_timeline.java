@@ -26,9 +26,13 @@ public class PersonFragment_timeline extends Fragment {
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
         View view = inflater.inflate(R.layout.fragment_profile_timeline, container, false);
-        // Inflate the layout for this fragment
+
+
+
+
         return view;
     }
+
     @Override
     public void onStop() {
         super.onStop();

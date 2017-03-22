@@ -38,10 +38,7 @@
         android:id="@+id/d1"
         layout="@layout/card_profile_timeline"
         />
-    <include
-        android:id="@+id/d1"
-        layout="@layout/card_profile_timeline"
-        />
+
         </LinearLayout>
     </ScrollView>
 </LinearLayout>
