@@ -3,8 +3,45 @@
     android:orientation="vertical" android:layout_width="match_parent"
     android:paddingTop="@dimen/padding_tabs_profile"
     android:layout_height="match_parent">
-    <TextView
+    <ScrollView
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="Неееет"/>
+        android:layout_height="match_parent">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+    <include
+        android:id="@+id/d1"
+        layout="@layout/card_profile_timeline"
+        />
+    <include
+        android:id="@+id/d1"
+        layout="@layout/card_profile_timeline"
+        />
+    <include
+        android:id="@+id/d1"
+        layout="@layout/card_profile_timeline"
+        />
+    <include
+        android:id="@+id/d1"
+        layout="@layout/card_profile_timeline"
+        />
+    <include
+        android:id="@+id/d1"
+        layout="@layout/card_profile_timeline"
+        />
+    <include
+        android:id="@+id/d1"
+        layout="@layout/card_profile_timeline"
+        />
+    <include
+        android:id="@+id/d1"
+        layout="@layout/card_profile_timeline"
+        />
+    <include
+        android:id="@+id/d1"
+        layout="@layout/card_profile_timeline"
+        />
+        </LinearLayout>
+    </ScrollView>
 </LinearLayout>

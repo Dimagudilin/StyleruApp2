@@ -5,10 +5,15 @@ import android.os.Bundle;
 import android.support.design.widget.TabLayout;
 import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentTransaction;
+import android.support.v4.view.MenuItemCompat;
 import android.support.v4.view.ViewPager;
+import android.support.v7.widget.SearchView;
 import android.support.v7.widget.Toolbar;
 import android.util.Log;
 import android.view.LayoutInflater;
+import android.view.Menu;
+import android.view.MenuInflater;
+import android.view.MenuItem;
 import android.view.View;
 import android.view.ViewGroup;
 
@@ -82,7 +87,7 @@ public class PeopleFragment extends Fragment {
         MainActivity activity = (MainActivity) getActivity();
         Toolbar toolbar = (Toolbar) activity.findViewById(R.id.toolbar);
         toolbar.setTitle("Люди");
-
+        setHasOptionsMenu(true);
         // Inflate the layout for this fragment
         return view;
 
@@ -95,6 +100,22 @@ public class PeopleFragment extends Fragment {
         }
     }
 
+    @Override
+    public void onCreateOptionsMenu(Menu menu, MenuInflater inflater) {
+
+        // TODO Add your menu entries here
+
+        Log.d("FRAME","1");
+        MainActivity activity = (MainActivity) getActivity();
+        MenuInflater inflater1 = activity.getMenuInflater();;
+        Log.d("FRAME","1");
+        inflater1.inflate(R.menu.main, menu);
+        MenuItem searchItem = menu.findItem(R.id.action_search);
+        Log.d("FRAME","1");
+        SearchView searchView = (SearchView) MenuItemCompat.getActionView(searchItem);
+        searchView.setQueryHint("Поиск");
+        super.onCreateOptionsMenu(menu, inflater);
+    }
 //    @Override
 //    public void onAttach(Context context) {
 //        super.onAttach(context);

@@ -3,6 +3,8 @@ package org.styleru.styleruapp.view.fragments;
 import android.net.Uri;
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
+import android.support.v4.view.MenuItemCompat;
+import android.support.v7.widget.SearchView;
 import android.support.v7.widget.Toolbar;
 import android.util.Log;
 import android.view.LayoutInflater;
@@ -82,6 +84,8 @@ public class ProjectsFragment extends Fragment {
 
 
         toolbar.setTitle("Проекты");
+        setHasOptionsMenu(true);
+
         Log.d("FRAME","3");
         //set toolbar appearance
 
@@ -139,17 +143,18 @@ public class ProjectsFragment extends Fragment {
 
     @Override
     public void onCreateOptionsMenu(Menu menu, MenuInflater inflater) {
+
         // TODO Add your menu entries here
 
         Log.d("FRAME","1");
-//        MainActivity activity = (MainActivity) getActivity();
-//        MenuInflater inflater1 = activity.getMenuInflater();;
-//        Log.d("FRAME","1");
-//        inflater1.inflate(R.menu.main, menu);
-////        MenuItem searchItem = menu.findItem(R.id.action_search);
-//        Log.d("FRAME","1");
-////        SearchView searchView = (SearchView) MenuItemCompat.getActionView(searchItem);
-////        searchView.setQueryHint("Поиск");
+        MainActivity activity = (MainActivity) getActivity();
+        MenuInflater inflater1 = activity.getMenuInflater();;
+        Log.d("FRAME","1");
+        inflater1.inflate(R.menu.main, menu);
+        MenuItem searchItem = menu.findItem(R.id.action_search);
+        Log.d("FRAME","1");
+        SearchView searchView = (SearchView) MenuItemCompat.getActionView(searchItem);
+        searchView.setQueryHint("Поиск");
         super.onCreateOptionsMenu(menu, inflater);
     }
 //    public boolean onCreateOptionsMenu(Menu menu) {
