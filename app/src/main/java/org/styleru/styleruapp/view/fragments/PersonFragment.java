@@ -81,8 +81,6 @@ public class PersonFragment extends Fragment {
 
         viewPager = (ViewPager) view.findViewById(R.id.viewpager_profile);
         setupViewPager(viewPager);
-
-
         tabLayout = (TabLayout) view.findViewById(R.id.sliding_tabs_profile);
         tabLayout.setupWithViewPager(viewPager);
 return view;

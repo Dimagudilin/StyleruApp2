@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Wed Mar 22 23:17:31 MSK 2017
+#Thu Mar 23 00:02:16 MSK 2017
 835.base=D\:\\styleru.org\\StyleruApp2\\app\\build\\intermediates\\res\\resources-debug.ap_
 100.set=ANDROID_RESOURCE
 57.file=D\:\\styleru.org\\StyleruApp2\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\raw\\joda_europe_istanbul
