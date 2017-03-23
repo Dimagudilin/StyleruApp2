@@ -38,7 +38,7 @@ public class PeopleFragment extends Fragment {
     // TODO: Rename and change types of parameters
     private String mParam1;
     private String mParam2;
-    PersonFragment_myprof frag2;
+    ProfileFragmentTabOverall frag2;
     FragmentTransaction fTrans;
     TabLayout tabLayout;
     ViewPager viewPager;

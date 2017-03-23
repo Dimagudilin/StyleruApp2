@@ -40,10 +40,6 @@
         "source": "/Users/tetawex/Documents/biandroid/StyleruApp2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/res/layout/select_dialog_item_material.xml"
     },
     {
-        "merged": "/Users/tetawex/Documents/biandroid/StyleruApp2/app/build/intermediates/res/merged/debug/layout/fragment_profile_mine.xml",
-        "source": "/Users/tetawex/Documents/biandroid/StyleruApp2/app/src/main/res/layout/fragment_profile_mine.xml"
-    },
-    {
         "merged": "/Users/tetawex/Documents/biandroid/StyleruApp2/app/build/intermediates/res/merged/debug/layout/notification_template_icon_group.xml",
         "source": "/Users/tetawex/Documents/biandroid/StyleruApp2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/res/layout/notification_template_icon_group.xml"
     },
@@ -112,6 +108,10 @@
         "source": "/Users/tetawex/Documents/biandroid/StyleruApp2/app/build/intermediates/exploded-aar/com.android.support/design/25.1.1/res/layout/design_navigation_menu_item.xml"
     },
     {
+        "merged": "/Users/tetawex/Documents/biandroid/StyleruApp2/app/build/intermediates/res/merged/debug/layout/card_time_now.xml",
+        "source": "/Users/tetawex/Documents/biandroid/StyleruApp2/app/src/main/res/layout/card_time_now.xml"
+    },
+    {
         "merged": "/Users/tetawex/Documents/biandroid/StyleruApp2/app/build/intermediates/res/merged/debug/layout/preference_widget_switch.xml",
         "source": "/Users/tetawex/Documents/biandroid/StyleruApp2/app/build/intermediates/exploded-aar/com.android.support/preference-v14/25.1.1/res/layout/preference_widget_switch.xml"
     },
@@ -122,6 +122,10 @@
     {
         "merged": "/Users/tetawex/Documents/biandroid/StyleruApp2/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
         "source": "/Users/tetawex/Documents/biandroid/StyleruApp2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/tetawex/Documents/biandroid/StyleruApp2/app/build/intermediates/res/merged/debug/layout/fragment_profile_overall.xml",
+        "source": "/Users/tetawex/Documents/biandroid/StyleruApp2/app/src/main/res/layout/fragment_profile_overall.xml"
     },
     {
         "merged": "/Users/tetawex/Documents/biandroid/StyleruApp2/app/build/intermediates/res/merged/debug/layout/preference_widget_checkbox.xml",
@@ -206,6 +210,10 @@
     {
         "merged": "/Users/tetawex/Documents/biandroid/StyleruApp2/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
         "source": "/Users/tetawex/Documents/biandroid/StyleruApp2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/Users/tetawex/Documents/biandroid/StyleruApp2/app/build/intermediates/res/merged/debug/layout/card_join.xml",
+        "source": "/Users/tetawex/Documents/biandroid/StyleruApp2/app/src/main/res/layout/card_join.xml"
     },
     {
         "merged": "/Users/tetawex/Documents/biandroid/StyleruApp2/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",

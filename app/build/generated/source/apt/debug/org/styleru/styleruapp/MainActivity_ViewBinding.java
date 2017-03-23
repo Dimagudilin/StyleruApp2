@@ -3,6 +3,7 @@ package org.styleru.styleruapp;
 
 import android.support.annotation.CallSuper;
 import android.support.annotation.UiThread;
+import android.support.design.widget.AppBarLayout;
 import android.support.v4.widget.DrawerLayout;
 import android.support.v7.widget.Toolbar;
 import android.view.View;
@@ -24,6 +25,7 @@ public class MainActivity_ViewBinding implements Unbinder {
     this.target = target;
 
     target.toolbar = Utils.findRequiredViewAsType(source, R.id.toolbar, "field 'toolbar'", Toolbar.class);
+    target.appBarLayout = Utils.findRequiredViewAsType(source, R.id.appbarlayout, "field 'appBarLayout'", AppBarLayout.class);
     target.drawer = Utils.findRequiredViewAsType(source, R.id.drawer_layout, "field 'drawer'", DrawerLayout.class);
   }
 
@@ -35,6 +37,7 @@ public class MainActivity_ViewBinding implements Unbinder {
     this.target = null;
 
     target.toolbar = null;
+    target.appBarLayout = null;
     target.drawer = null;
   }
 }

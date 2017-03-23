@@ -2,23 +2,25 @@ package org.styleru.styleruapp;
 
 import android.content.Intent;
 import android.os.Bundle;
+import android.support.design.widget.AppBarLayout;
 import android.support.design.widget.NavigationView;
 import android.support.v4.view.GravityCompat;
 import android.support.v4.widget.DrawerLayout;
 import android.support.v7.app.ActionBarDrawerToggle;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
+import android.util.TypedValue;
 import android.view.Menu;
 import android.view.MenuItem;
 
 import com.google.android.gms.appindexing.AppIndex;
 import com.google.android.gms.common.api.GoogleApiClient;
 
-import org.styleru.styleruapp.view.fragments.DirectionsFragment;
+import org.styleru.styleruapp.view.fragments.DepartmentsFragment;
 import org.styleru.styleruapp.view.fragments.EventsFragment;
 import org.styleru.styleruapp.view.fragments.PeopleFragment;
-import org.styleru.styleruapp.view.fragments.PersonFragment;
-import org.styleru.styleruapp.view.fragments.PersonFragment_myprof;
+import org.styleru.styleruapp.view.fragments.ProfileFragment;
+import org.styleru.styleruapp.view.fragments.ProfileFragmentTabOverall;
 import org.styleru.styleruapp.view.fragments.ProjectsFragment;
 
 import butterknife.BindView;
@@ -26,14 +28,13 @@ import butterknife.ButterKnife;
 
 public class MainActivity extends AppCompatActivity
         implements NavigationView.OnNavigationItemSelectedListener {
-    private DirectionsFragment directionsFragment;
-    private EventsFragment eventsFragment;
-    private PeopleFragment peopleFragment;
-    private ProjectsFragment projectsFragment;
-    private PersonFragment_myprof personFragmentMyprof;
+
+    private ActionBarDrawerToggle toggle;
 
     @BindView(R.id.toolbar)
     public Toolbar toolbar;
+    @BindView(R.id.appbarlayout)
+    public AppBarLayout appBarLayout;
     @BindView(R.id.drawer_layout)
     public DrawerLayout drawer;
 
@@ -52,10 +53,9 @@ public class MainActivity extends AppCompatActivity
 
         setSupportActionBar(toolbar);
         toolbar.setTitle("АКТИВИТИ");
-        getSupportActionBar().setElevation(0);
 
 
-        ActionBarDrawerToggle toggle = new ActionBarDrawerToggle(
+        toggle = new ActionBarDrawerToggle(
                 this, drawer, toolbar, R.string.navigation_drawer_open, R.string.navigation_drawer_close);
         toggle.setDrawerIndicatorEnabled(true);
         drawer.setDrawerListener(toggle);
@@ -64,18 +64,7 @@ public class MainActivity extends AppCompatActivity
         NavigationView navigationView = (NavigationView) findViewById(R.id.nav_view);
         navigationView.setNavigationItemSelectedListener(this);
 
-        directionsFragment = new DirectionsFragment();
-        eventsFragment = new EventsFragment();
-        peopleFragment = new PeopleFragment();
-        projectsFragment = new ProjectsFragment();
-        projectsFragment = new ProjectsFragment();
-        personFragmentMyprof = new PersonFragment_myprof();
-        final android.support.v4.app.FragmentTransaction transaction
-                = getSupportFragmentManager().beginTransaction();
-        transaction.replace(R.id.container, new EventsFragment());
-        transaction.commit();
-        // ATTENTION: This was auto-generated to implement the App Indexing API.
-        // See https://g.co/AppIndexing/AndroidStudio for more information.
+        switchFragment(R.id.nav_events);
         client = new GoogleApiClient.Builder(this).addApi(AppIndex.API).build();
     }
 
@@ -94,76 +83,60 @@ public class MainActivity extends AppCompatActivity
         // Inflate the menu; this adds items to the action bar if it is present.
         return true;
     }
-////
-//    @Override
-//    public boolean onOptionsItemSelected(MenuItem item) {
-//        // Handle action bar item clicks here. The action bar will
-//        // automatically handle clicks on the Home/Up button, so long
-//        // as you specify a parent activity in AndroidManifest.xml.
-//        int id = item.getItemId();
-//
-//        //noinspection SimplifiableIfStatement
-//        if (id == R.id.action_settings) {
-//            return true;
-//        }
-//
-//        return super.onOptionsItemSelected(item);
-//    }
+    @Override
+    public boolean onOptionsItemSelected(MenuItem item) {
+        // Pass the event to ActionBarDrawerToggle, if it returns
+        // true, then it has handled the app icon touch event
+        if (toggle.onOptionsItemSelected(item)) {
+            return true;
+        }
+        // Handle your other action bar items...
+
+        return super.onOptionsItemSelected(item);
+    }
 
     @SuppressWarnings("StatementWithEmptyBody")
     @Override
     public boolean onNavigationItemSelected(MenuItem item) {
         // Handle navigation view item clicks here.
         int id = item.getItemId();
+        switchFragment(id);
+        return true;
+    }
+    public void switchFragment(int id){
         final android.support.v4.app.FragmentTransaction transaction
                 = getSupportFragmentManager().beginTransaction();
-
-        if (id == R.id.nav_people) {
-           transaction.replace(R.id.container, new PeopleFragment());
-
-        } else if (id == R.id.nav_projects) {
-            transaction.replace(R.id.container, new ProjectsFragment());
-
-        } else if (id == R.id.nav_direct) {
-            transaction.replace(R.id.container, new DirectionsFragment());
-        } else if (id == R.id.nav_events) {
-            transaction.replace(R.id.container, new EventsFragment());
-
-        } else if (id == R.id.nav_profile) {
-        transaction.replace(R.id.container, new PersonFragment());
-
-    }
+        switch(id) {
+            case(R.id.nav_people):
+                setAppBarElevation(4);
+                transaction.replace(R.id.container, new PeopleFragment());
+                break;
+            case(R.id.nav_departments):
+                setAppBarElevation(4);
+                transaction.replace(R.id.container, new DepartmentsFragment());
+                break;
+            case(R.id.nav_events):
+                setAppBarElevation(4);
+                transaction.replace(R.id.container, new EventsFragment());
+                break;
+            case(R.id.nav_profile):
+                setAppBarElevation(0);
+                transaction.replace(R.id.container, new ProfileFragment());
+                break;
+            case(R.id.nav_projects):
+                setAppBarElevation(4);
+                transaction.replace(R.id.container, new ProjectsFragment());
+                break;
+        }
         transaction.commit();
 
         DrawerLayout drawer = (DrawerLayout) findViewById(R.id.drawer_layout);
         drawer.closeDrawer(GravityCompat.START);
-        return true;
+    }
+    public void setAppBarElevation(float elevationDp){
+        if(android.os.Build.VERSION.SDK_INT >= 21)
+            appBarLayout.setElevation(TypedValue.applyDimension(TypedValue.
+                    COMPLEX_UNIT_DIP, elevationDp, getResources().getDisplayMetrics()));
     }
 
-
 }
-//    Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
-//    setSupportActionBar(toolbar);
-//
-//
-//    DrawerLayout drawer = (DrawerLayout) findViewById(R.id.drawer_layout);
-//    ActionBarDrawerToggle toggle = new ActionBarDrawerToggle(
-//            this, drawer, toolbar, R.string.navigation_drawer_open, R.string.navigation_drawer_close);
-//drawer.setDrawerListener(toggle);
-//        toggle.syncState();
-//
-//        if (id == R.id.nav_people) {
-//        ftrans.replace(R.id.container, peopleFragment);
-//        toolbar.setTitle("Профиль человека");
-//        } else if (id == R.id.nav_projects) {
-//        ftrans.replace(R.id.container, projectsFragment);
-//        toolbar.setTitle("Проекты");
-//        } else if (id == R.id.nav_direct) {
-//        ftrans.replace(R.id.container, directionsFragment);
-//        toolbar.setTitle("Направления");
-//        } else if (id == R.id.nav_events) {
-//        ftrans.replace(R.id.container, eventsFragment);
-//        toolbar.setTitle("Мероприятия");
-//
-//        }
-//        ftrans.commit();
