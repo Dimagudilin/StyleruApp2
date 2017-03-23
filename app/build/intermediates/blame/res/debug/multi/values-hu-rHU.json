@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "D:\\styleru.org\\StyleruApp2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-hu-rHU\\values-hu-rHU.xml",
+        "outputFile": "/Users/tetawex/Documents/biandroid/StyleruApp2/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hu-rHU/values-hu-rHU.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 117
                 },
                 "from": {
-                    "file": "D:\\styleru.org\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\net.danlew\\android.joda\\2.9.5.1\\res\\values-hu-rHU\\values-hu-rHU.xml",
+                    "file": "/Users/tetawex/Documents/biandroid/StyleruApp2/app/build/intermediates/exploded-aar/net.danlew/android.joda/2.9.5.1/res/values-hu-rHU/values-hu-rHU.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
