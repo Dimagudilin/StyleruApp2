@@ -160,6 +160,10 @@
         "source": "/Users/tetawex/Documents/biandroid/StyleruApp2/app/src/main/res/drawable-xhdpi/ic_avatar.png"
     },
     {
+        "merged": "/Users/tetawex/Documents/biandroid/StyleruApp2/app/build/intermediates/res/merged/debug/drawable-xhdpi/placeholder_person.png",
+        "source": "/Users/tetawex/Documents/biandroid/StyleruApp2/app/src/main/res/drawable-xhdpi/placeholder_person.png"
+    },
+    {
         "merged": "/Users/tetawex/Documents/biandroid/StyleruApp2/app/build/intermediates/res/merged/debug/drawable-xhdpi/common_google_signin_btn_text_dark_focused.9.png",
         "source": "/Users/tetawex/Documents/biandroid/StyleruApp2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-xhdpi/common_google_signin_btn_text_dark_focused.9.png"
     },

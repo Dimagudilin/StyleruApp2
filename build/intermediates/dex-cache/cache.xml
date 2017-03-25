@@ -142,7 +142,7 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="d7dba5657ea7d11ee536d0695d02ce1b0a4dfedf">
+        sha1="3604faff57604eae36eaf32cd9f0817a1349e475">
         <dex dex="/Users/tetawex/Documents/biandroid/StyleruApp2/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_24674dd39afac0f53455a52b65ccf8e3ea6ceb99/classes.dex" />
     </item>
     <item
@@ -151,7 +151,7 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="c034e0cd9edbdac4e93f17955a19a1da718d4655">
+        sha1="63ee2d359ad42ae565e4facc35199bc4d09a2b9d">
         <dex dex="/Users/tetawex/Documents/biandroid/StyleruApp2/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_c41bc25bc2d2f073ede9965bef837c6d418092b0/classes.dex" />
     </item>
     <item

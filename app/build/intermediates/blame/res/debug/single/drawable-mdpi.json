@@ -124,6 +124,10 @@
         "source": "/Users/tetawex/Documents/biandroid/StyleruApp2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-mdpi/common_google_signin_btn_icon_light_disabled.9.png"
     },
     {
+        "merged": "/Users/tetawex/Documents/biandroid/StyleruApp2/app/build/intermediates/res/merged/debug/drawable-mdpi/placeholder_person.png",
+        "source": "/Users/tetawex/Documents/biandroid/StyleruApp2/app/src/main/res/drawable-mdpi/placeholder_person.png"
+    },
+    {
         "merged": "/Users/tetawex/Documents/biandroid/StyleruApp2/app/build/intermediates/res/merged/debug/drawable-mdpi/common_plus_signin_btn_icon_dark_normal.9.png",
         "source": "/Users/tetawex/Documents/biandroid/StyleruApp2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-mdpi/common_plus_signin_btn_icon_dark_normal.9.png"
     },

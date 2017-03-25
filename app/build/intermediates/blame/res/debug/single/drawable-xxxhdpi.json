@@ -28,6 +28,10 @@
         "source": "/Users/tetawex/Documents/biandroid/StyleruApp2/app/src/main/res/drawable-xxxhdpi/ic_avatar.png"
     },
     {
+        "merged": "/Users/tetawex/Documents/biandroid/StyleruApp2/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/placeholder_person.png",
+        "source": "/Users/tetawex/Documents/biandroid/StyleruApp2/app/src/main/res/drawable-xxxhdpi/placeholder_person.png"
+    },
+    {
         "merged": "/Users/tetawex/Documents/biandroid/StyleruApp2/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/ic_clock.png",
         "source": "/Users/tetawex/Documents/biandroid/StyleruApp2/app/src/main/res/drawable-xxxhdpi/ic_clock.png"
     },
