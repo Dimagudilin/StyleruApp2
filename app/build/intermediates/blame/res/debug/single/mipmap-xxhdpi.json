@@ -1,6 +1,10 @@
 [
     {
-        "merged": "/Users/tetawex/Documents/biandroid/StyleruApp2/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",
-        "source": "/Users/tetawex/Documents/biandroid/StyleruApp2/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+        "merged": "C:\\Users\\tetawex\\Documents\\biandroid\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher.png",
+        "source": "C:\\Users\\tetawex\\Documents\\biandroid\\StyleruApp2\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher.png",
+        "source": "C:\\StyleruApp2\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
     }
 ]

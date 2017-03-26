@@ -14,23 +14,39 @@
             android:paddingRight="0dp">
             <include
                 android:id="@+id/d1"
-                layout="@layout/card_projects"
+                layout="@layout/card_projects_vol2"
                 />
             <include
                 android:id="@+id/d1"
-                layout="@layout/card_projects"
+                layout="@layout/card_projects_vol2"
                 />
             <include
                 android:id="@+id/d1"
-                layout="@layout/card_projects"
+                layout="@layout/card_projects_vol2"
                 />
             <include
                 android:id="@+id/d1"
-                layout="@layout/card_projects"
+                layout="@layout/card_projects_vol2"
                 />
             <include
                 android:id="@+id/d1"
-                layout="@layout/card_projects"
+                layout="@layout/card_projects_vol2"
+                />
+            <include
+                android:id="@+id/d1"
+                layout="@layout/card_projects_vol2"
+                />
+            <include
+                android:id="@+id/d1"
+                layout="@layout/card_projects_vol2"
+                />
+            <include
+                android:id="@+id/d1"
+                layout="@layout/card_projects_vol2"
+                />
+            <include
+                android:id="@+id/d1"
+                layout="@layout/card_projects_vol2"
                 />
         </LinearLayout>
     </ScrollView>

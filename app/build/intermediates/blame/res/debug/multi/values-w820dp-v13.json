@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/Users/tetawex/Documents/biandroid/StyleruApp2/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-w820dp-v13/values-w820dp-v13.xml",
+        "outputFile": "C:\\StyleruApp2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w820dp-v13\\values-w820dp-v13.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,88 @@
                     "endOffset": 107
                 },
                 "from": {
-                    "file": "/Users/tetawex/Documents/biandroid/StyleruApp2/app/src/main/res/values-w820dp/dimens.xml",
+                    "file": "C:\\StyleruApp2\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 295,
+                        "endColumn": 56,
+                        "endOffset": 347
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 112,
+                    "endColumn": 42,
+                    "endOffset": 150
+                },
+                "from": {
+                    "file": "C:\\StyleruApp2\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 353,
+                        "endColumn": 42,
+                        "endOffset": 391
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 155,
+                    "endColumn": 50,
+                    "endOffset": 201
+                },
+                "from": {
+                    "file": "C:\\StyleruApp2\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 448,
+                        "endColumn": 50,
+                        "endOffset": 494
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 206,
+                    "endColumn": 49,
+                    "endOffset": 251
+                },
+                "from": {
+                    "file": "C:\\StyleruApp2\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 397,
+                        "endColumn": 49,
+                        "endOffset": 442
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\Users\\tetawex\\Documents\\biandroid\\StyleruApp2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w820dp-v13\\values-w820dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 56,
+                    "endOffset": 107
+                },
+                "from": {
+                    "file": "C:\\Users\\tetawex\\Documents\\biandroid\\StyleruApp2\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -30,7 +111,7 @@
                     "endOffset": 150
                 },
                 "from": {
-                    "file": "/Users/tetawex/Documents/biandroid/StyleruApp2/app/src/main/res/values-w820dp/dimens.xml",
+                    "file": "C:\\Users\\tetawex\\Documents\\biandroid\\StyleruApp2\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -49,7 +130,7 @@
                     "endOffset": 201
                 },
                 "from": {
-                    "file": "/Users/tetawex/Documents/biandroid/StyleruApp2/app/src/main/res/values-w820dp/dimens.xml",
+                    "file": "C:\\Users\\tetawex\\Documents\\biandroid\\StyleruApp2\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -68,7 +149,7 @@
                     "endOffset": 251
                 },
                 "from": {
-                    "file": "/Users/tetawex/Documents/biandroid/StyleruApp2/app/src/main/res/values-w820dp/dimens.xml",
+                    "file": "C:\\Users\\tetawex\\Documents\\biandroid\\StyleruApp2\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
