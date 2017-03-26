@@ -8,6 +8,7 @@
     android:layout_marginRight="8dp"
     android:layout_marginTop="8dp"
     >
+
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
@@ -23,14 +24,16 @@
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="БИ-WEB"
                 android:fontFamily="sans-serif-light"
+                android:text="БИ-WEB"
+                android:layout_marginBottom="2dp"
                 android:textColor="#295d65"
                 android:textSize="22sp" />
+
             <Space
                 android:layout_width="match_parent"
                 android:layout_height="0dp"
-                android:layout_weight="1"/>
+                android:layout_weight="1" />
 
             <TextView
                 android:id="@+id/textView2"
@@ -42,19 +45,20 @@
         </LinearLayout>
 
         <LinearLayout
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="0.65"
             android:gravity="center|right"
-        android:layout_weight="0.65" >
-        <TextView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="Свободная вакансия"
-            android:textColor="#295d29"
-            android:padding="2dp"
-            android:background="#ccffbb"
-            android:textSize="12sp"/>
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="#ccffbb"
+                android:padding="2dp"
+                android:text="Свободная вакансия"
+                android:textColor="#295d29"
+                android:textSize="14sp" />
             <TextView
                 android:id="@+id/textView"
                 android:layout_width="wrap_content"
@@ -63,12 +67,9 @@
                 android:text="до 15.01.2017"
                 android:textColor="#295d65"
                 android:textSize="13sp" />
-            <Space
-                android:layout_width="match_parent"
-                android:layout_height="0dp"
-                android:layout_weight="1"/>
         </LinearLayout>
     </LinearLayout>
+
     <FrameLayout
         android:layout_width="match_parent"
         android:layout_height="1dp"

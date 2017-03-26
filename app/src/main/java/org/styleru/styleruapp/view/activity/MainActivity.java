@@ -1,4 +1,4 @@
-package org.styleru.styleruapp;
+package org.styleru.styleruapp.view.activity;
 
 import android.content.Intent;
 import android.os.Bundle;
@@ -16,6 +16,7 @@ import android.view.MenuItem;
 import com.google.android.gms.appindexing.AppIndex;
 import com.google.android.gms.common.api.GoogleApiClient;
 
+import org.styleru.styleruapp.R;
 import org.styleru.styleruapp.view.fragments.DepartmentsFragment;
 import org.styleru.styleruapp.view.fragments.EventsFragment;
 import org.styleru.styleruapp.view.fragments.PeopleFragment;

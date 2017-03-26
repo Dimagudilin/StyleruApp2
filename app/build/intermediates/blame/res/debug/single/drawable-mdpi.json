@@ -1,35 +1,31 @@
 [
     {
-        "merged": "C:\\Users\\tetawex\\Documents\\biandroid\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_plus_signin_btn_icon_dark_pressed.9.png",
-        "source": "C:\\Users\\tetawex\\Documents\\biandroid\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_plus_signin_btn_icon_dark_pressed.9.png"
-    },
-    {
         "merged": "C:\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_google_signin_btn_text_light_disabled.9.png",
         "source": "C:\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_google_signin_btn_text_light_disabled.9.png"
     },
     {
-        "merged": "C:\\Users\\tetawex\\Documents\\biandroid\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_button_go_0.png",
-        "source": "C:\\Users\\tetawex\\Documents\\biandroid\\StyleruApp2\\app\\src\\main\\res\\drawable-mdpi\\ic_button_go_0.png"
+        "merged": "C:\\Users\\tetawex\\Documents\\biandroid\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_plus_signin_btn_icon_light_pressed.9.png",
+        "source": "C:\\Users\\tetawex\\Documents\\biandroid\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_plus_signin_btn_icon_light_pressed.9.png"
     },
     {
-        "merged": "C:\\Users\\tetawex\\Documents\\biandroid\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_greater_calendar.png",
-        "source": "C:\\Users\\tetawex\\Documents\\biandroid\\StyleruApp2\\app\\src\\main\\res\\drawable-mdpi\\ic_greater_calendar.png"
+        "merged": "C:\\Users\\tetawex\\Documents\\biandroid\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_plus_signin_btn_text_light_disabled.9.png",
+        "source": "C:\\Users\\tetawex\\Documents\\biandroid\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_plus_signin_btn_text_light_disabled.9.png"
     },
     {
-        "merged": "C:\\Users\\tetawex\\Documents\\biandroid\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_plus_signin_btn_icon_light_disabled.9.png",
-        "source": "C:\\Users\\tetawex\\Documents\\biandroid\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_plus_signin_btn_icon_light_disabled.9.png"
+        "merged": "C:\\Users\\tetawex\\Documents\\biandroid\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\placeholder_person.png",
+        "source": "C:\\Users\\tetawex\\Documents\\biandroid\\StyleruApp2\\app\\src\\main\\res\\drawable-mdpi\\placeholder_person.png"
     },
     {
-        "merged": "C:\\Users\\tetawex\\Documents\\biandroid\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_plus_signin_btn_text_dark_normal.9.png",
-        "source": "C:\\Users\\tetawex\\Documents\\biandroid\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_plus_signin_btn_text_dark_normal.9.png"
+        "merged": "C:\\Users\\tetawex\\Documents\\biandroid\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_google_signin_btn_icon_dark_pressed.9.png",
+        "source": "C:\\Users\\tetawex\\Documents\\biandroid\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_google_signin_btn_icon_dark_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\tetawex\\Documents\\biandroid\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_plus_signin_btn_text_dark_disabled.9.png",
+        "source": "C:\\Users\\tetawex\\Documents\\biandroid\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_plus_signin_btn_text_dark_disabled.9.png"
     },
     {
         "merged": "C:\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_full_open_on_phone.png",
         "source": "C:\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_full_open_on_phone.png"
-    },
-    {
-        "merged": "C:\\Users\\tetawex\\Documents\\biandroid\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_google_signin_btn_icon_light_focused.9.png",
-        "source": "C:\\Users\\tetawex\\Documents\\biandroid\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_google_signin_btn_icon_light_focused.9.png"
     },
     {
         "merged": "C:\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_plus_signin_btn_text_dark_focused.9.png",
@@ -40,76 +36,56 @@
         "source": "C:\\StyleruApp2\\app\\src\\main\\res\\drawable-mdpi\\ic_clock.png"
     },
     {
-        "merged": "C:\\Users\\tetawex\\Documents\\biandroid\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_plus_signin_btn_icon_dark_disabled.9.png",
-        "source": "C:\\Users\\tetawex\\Documents\\biandroid\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_plus_signin_btn_icon_dark_disabled.9.png"
+        "merged": "C:\\Users\\tetawex\\Documents\\biandroid\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_explore.png",
+        "source": "C:\\Users\\tetawex\\Documents\\biandroid\\StyleruApp2\\app\\src\\main\\res\\drawable-mdpi\\ic_explore.png"
     },
     {
-        "merged": "C:\\Users\\tetawex\\Documents\\biandroid\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_presentation.png",
-        "source": "C:\\Users\\tetawex\\Documents\\biandroid\\StyleruApp2\\app\\src\\main\\res\\drawable-mdpi\\ic_presentation.png"
-    },
-    {
-        "merged": "C:\\Users\\tetawex\\Documents\\biandroid\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_plus_signin_btn_text_light_focused.9.png",
-        "source": "C:\\Users\\tetawex\\Documents\\biandroid\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_plus_signin_btn_text_light_focused.9.png"
+        "merged": "C:\\Users\\tetawex\\Documents\\biandroid\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_clock.png",
+        "source": "C:\\Users\\tetawex\\Documents\\biandroid\\StyleruApp2\\app\\src\\main\\res\\drawable-mdpi\\ic_clock.png"
     },
     {
         "merged": "C:\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_plus_signin_btn_text_light_disabled.9.png",
         "source": "C:\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_plus_signin_btn_text_light_disabled.9.png"
     },
     {
-        "merged": "C:\\Users\\tetawex\\Documents\\biandroid\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_google_signin_btn_text_light_pressed.9.png",
-        "source": "C:\\Users\\tetawex\\Documents\\biandroid\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_google_signin_btn_text_light_pressed.9.png"
+        "merged": "C:\\Users\\tetawex\\Documents\\biandroid\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_google_signin_btn_text_dark_pressed.9.png",
+        "source": "C:\\Users\\tetawex\\Documents\\biandroid\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_google_signin_btn_text_dark_pressed.9.png"
     },
     {
         "merged": "C:\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_plus_signin_btn_text_light_normal.9.png",
         "source": "C:\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_plus_signin_btn_text_light_normal.9.png"
     },
     {
-        "merged": "C:\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\placeholder_person.png",
-        "source": "C:\\StyleruApp2\\app\\src\\main\\res\\drawable-mdpi\\placeholder_person.png"
-    },
-    {
         "merged": "C:\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_button_go_0.png",
         "source": "C:\\StyleruApp2\\app\\src\\main\\res\\drawable-mdpi\\ic_button_go_0.png"
     },
     {
-        "merged": "C:\\Users\\tetawex\\Documents\\biandroid\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_google_signin_btn_text_light_disabled.9.png",
-        "source": "C:\\Users\\tetawex\\Documents\\biandroid\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_google_signin_btn_text_light_disabled.9.png"
-    },
-    {
-        "merged": "C:\\Users\\tetawex\\Documents\\biandroid\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_plus_signin_btn_text_dark_disabled.9.png",
-        "source": "C:\\Users\\tetawex\\Documents\\biandroid\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_plus_signin_btn_text_dark_disabled.9.png"
+        "merged": "C:\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\placeholder_person.png",
+        "source": "C:\\StyleruApp2\\app\\src\\main\\res\\drawable-mdpi\\placeholder_person.png"
     },
     {
         "merged": "C:\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_avatar.png",
         "source": "C:\\StyleruApp2\\app\\src\\main\\res\\drawable-mdpi\\ic_avatar.png"
     },
     {
-        "merged": "C:\\Users\\tetawex\\Documents\\biandroid\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_google_signin_btn_icon_light_pressed.9.png",
-        "source": "C:\\Users\\tetawex\\Documents\\biandroid\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_google_signin_btn_icon_light_pressed.9.png"
+        "merged": "C:\\Users\\tetawex\\Documents\\biandroid\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_button_go_0.png",
+        "source": "C:\\Users\\tetawex\\Documents\\biandroid\\StyleruApp2\\app\\src\\main\\res\\drawable-mdpi\\ic_button_go_0.png"
     },
     {
         "merged": "C:\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_google_signin_btn_text_dark_pressed.9.png",
         "source": "C:\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_google_signin_btn_text_dark_pressed.9.png"
     },
     {
-        "merged": "C:\\Users\\tetawex\\Documents\\biandroid\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_plus_signin_btn_text_light_normal.9.png",
-        "source": "C:\\Users\\tetawex\\Documents\\biandroid\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_plus_signin_btn_text_light_normal.9.png"
+        "merged": "C:\\Users\\tetawex\\Documents\\biandroid\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_google_signin_btn_text_light_focused.9.png",
+        "source": "C:\\Users\\tetawex\\Documents\\biandroid\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_google_signin_btn_text_light_focused.9.png"
     },
     {
         "merged": "C:\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_plus_signin_btn_text_dark_pressed.9.png",
         "source": "C:\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_plus_signin_btn_text_dark_pressed.9.png"
     },
     {
-        "merged": "C:\\Users\\tetawex\\Documents\\biandroid\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_google_signin_btn_icon_dark_focused.9.png",
-        "source": "C:\\Users\\tetawex\\Documents\\biandroid\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_google_signin_btn_icon_dark_focused.9.png"
-    },
-    {
-        "merged": "C:\\Users\\tetawex\\Documents\\biandroid\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_google_signin_btn_text_dark_focused.9.png",
-        "source": "C:\\Users\\tetawex\\Documents\\biandroid\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_google_signin_btn_text_dark_focused.9.png"
-    },
-    {
-        "merged": "C:\\Users\\tetawex\\Documents\\biandroid\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_plus_signin_btn_icon_dark_focused.9.png",
-        "source": "C:\\Users\\tetawex\\Documents\\biandroid\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_plus_signin_btn_icon_dark_focused.9.png"
+        "merged": "C:\\Users\\tetawex\\Documents\\biandroid\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_google_signin_btn_icon_dark_disabled.9.png",
+        "source": "C:\\Users\\tetawex\\Documents\\biandroid\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_google_signin_btn_icon_dark_disabled.9.png"
     },
     {
         "merged": "C:\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_plus_signin_btn_text_dark_disabled.9.png",
@@ -120,44 +96,32 @@
         "source": "C:\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_google_signin_btn_text_dark_disabled.9.png"
     },
     {
-        "merged": "C:\\Users\\tetawex\\Documents\\biandroid\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_plus_signin_btn_text_dark_focused.9.png",
-        "source": "C:\\Users\\tetawex\\Documents\\biandroid\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_plus_signin_btn_text_dark_focused.9.png"
-    },
-    {
-        "merged": "C:\\Users\\tetawex\\Documents\\biandroid\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_google_signin_btn_icon_light_normal.9.png",
-        "source": "C:\\Users\\tetawex\\Documents\\biandroid\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_google_signin_btn_icon_light_normal.9.png"
+        "merged": "C:\\Users\\tetawex\\Documents\\biandroid\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_google_signin_btn_icon_light_pressed.9.png",
+        "source": "C:\\Users\\tetawex\\Documents\\biandroid\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_google_signin_btn_icon_light_pressed.9.png"
     },
     {
         "merged": "C:\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_plus_signin_btn_icon_dark_pressed.9.png",
         "source": "C:\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_plus_signin_btn_icon_dark_pressed.9.png"
     },
     {
-        "merged": "C:\\Users\\tetawex\\Documents\\biandroid\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_full_open_on_phone.png",
-        "source": "C:\\Users\\tetawex\\Documents\\biandroid\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_full_open_on_phone.png"
+        "merged": "C:\\Users\\tetawex\\Documents\\biandroid\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_avatar.png",
+        "source": "C:\\Users\\tetawex\\Documents\\biandroid\\StyleruApp2\\app\\src\\main\\res\\drawable-mdpi\\ic_avatar.png"
     },
     {
         "merged": "C:\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_location.png",
         "source": "C:\\StyleruApp2\\app\\src\\main\\res\\drawable-mdpi\\ic_location.png"
     },
     {
-        "merged": "C:\\Users\\tetawex\\Documents\\biandroid\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_plus_signin_btn_icon_light_normal.9.png",
-        "source": "C:\\Users\\tetawex\\Documents\\biandroid\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_plus_signin_btn_icon_light_normal.9.png"
+        "merged": "C:\\Users\\tetawex\\Documents\\biandroid\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_full_open_on_phone.png",
+        "source": "C:\\Users\\tetawex\\Documents\\biandroid\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_full_open_on_phone.png"
     },
     {
         "merged": "C:\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_presentation.png",
         "source": "C:\\StyleruApp2\\app\\src\\main\\res\\drawable-mdpi\\ic_presentation.png"
     },
     {
-        "merged": "C:\\Users\\tetawex\\Documents\\biandroid\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_explore.png",
-        "source": "C:\\Users\\tetawex\\Documents\\biandroid\\StyleruApp2\\app\\src\\main\\res\\drawable-mdpi\\ic_explore.png"
-    },
-    {
         "merged": "C:\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_google_signin_btn_icon_dark_pressed.9.png",
         "source": "C:\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_google_signin_btn_icon_dark_pressed.9.png"
-    },
-    {
-        "merged": "C:\\Users\\tetawex\\Documents\\biandroid\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_google_signin_btn_icon_dark_normal.9.png",
-        "source": "C:\\Users\\tetawex\\Documents\\biandroid\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_google_signin_btn_icon_dark_normal.9.png"
     },
     {
         "merged": "C:\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_plus_signin_btn_icon_light_focused.9.png",
@@ -168,16 +132,20 @@
         "source": "C:\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_plus_signin_btn_text_light_pressed.9.png"
     },
     {
-        "merged": "C:\\Users\\tetawex\\Documents\\biandroid\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_google_signin_btn_icon_light_disabled.9.png",
-        "source": "C:\\Users\\tetawex\\Documents\\biandroid\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_google_signin_btn_icon_light_disabled.9.png"
-    },
-    {
         "merged": "C:\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_google_signin_btn_icon_light_disabled.9.png",
         "source": "C:\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_google_signin_btn_icon_light_disabled.9.png"
     },
     {
-        "merged": "C:\\Users\\tetawex\\Documents\\biandroid\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_google_signin_btn_text_dark_pressed.9.png",
-        "source": "C:\\Users\\tetawex\\Documents\\biandroid\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_google_signin_btn_text_dark_pressed.9.png"
+        "merged": "C:\\Users\\tetawex\\Documents\\biandroid\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_calendar.png",
+        "source": "C:\\Users\\tetawex\\Documents\\biandroid\\StyleruApp2\\app\\src\\main\\res\\drawable-mdpi\\ic_calendar.png"
+    },
+    {
+        "merged": "C:\\Users\\tetawex\\Documents\\biandroid\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_google_signin_btn_text_light_pressed.9.png",
+        "source": "C:\\Users\\tetawex\\Documents\\biandroid\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_google_signin_btn_text_light_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\tetawex\\Documents\\biandroid\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_location.png",
+        "source": "C:\\Users\\tetawex\\Documents\\biandroid\\StyleruApp2\\app\\src\\main\\res\\drawable-mdpi\\ic_location.png"
     },
     {
         "merged": "C:\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_plus_signin_btn_icon_dark_normal.9.png",
@@ -188,16 +156,16 @@
         "source": "C:\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_google_signin_btn_icon_dark_normal.9.png"
     },
     {
-        "merged": "C:\\Users\\tetawex\\Documents\\biandroid\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_plus_signin_btn_text_light_pressed.9.png",
-        "source": "C:\\Users\\tetawex\\Documents\\biandroid\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_plus_signin_btn_text_light_pressed.9.png"
+        "merged": "C:\\Users\\tetawex\\Documents\\biandroid\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_google_signin_btn_icon_light_focused.9.png",
+        "source": "C:\\Users\\tetawex\\Documents\\biandroid\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_google_signin_btn_icon_light_focused.9.png"
     },
     {
         "merged": "C:\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_google_signin_btn_text_dark_normal.9.png",
         "source": "C:\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_google_signin_btn_text_dark_normal.9.png"
     },
     {
-        "merged": "C:\\Users\\tetawex\\Documents\\biandroid\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_google_signin_btn_icon_dark_disabled.9.png",
-        "source": "C:\\Users\\tetawex\\Documents\\biandroid\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_google_signin_btn_icon_dark_disabled.9.png"
+        "merged": "C:\\Users\\tetawex\\Documents\\biandroid\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_plus_signin_btn_icon_dark_normal.9.png",
+        "source": "C:\\Users\\tetawex\\Documents\\biandroid\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_plus_signin_btn_icon_dark_normal.9.png"
     },
     {
         "merged": "C:\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_google_signin_btn_text_dark_focused.9.png",
@@ -212,14 +180,6 @@
         "source": "C:\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_google_signin_btn_icon_light_focused.9.png"
     },
     {
-        "merged": "C:\\Users\\tetawex\\Documents\\biandroid\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_plus_signin_btn_icon_light_focused.9.png",
-        "source": "C:\\Users\\tetawex\\Documents\\biandroid\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_plus_signin_btn_icon_light_focused.9.png"
-    },
-    {
-        "merged": "C:\\Users\\tetawex\\Documents\\biandroid\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_clock.png",
-        "source": "C:\\Users\\tetawex\\Documents\\biandroid\\StyleruApp2\\app\\src\\main\\res\\drawable-mdpi\\ic_clock.png"
-    },
-    {
         "merged": "C:\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\placeholder_loading.png",
         "source": "C:\\StyleruApp2\\app\\src\\main\\res\\drawable-mdpi\\placeholder_loading.png"
     },
@@ -228,56 +188,96 @@
         "source": "C:\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_google_signin_btn_text_light_pressed.9.png"
     },
     {
-        "merged": "C:\\Users\\tetawex\\Documents\\biandroid\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_google_signin_btn_text_dark_normal.9.png",
-        "source": "C:\\Users\\tetawex\\Documents\\biandroid\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_google_signin_btn_text_dark_normal.9.png"
+        "merged": "C:\\Users\\tetawex\\Documents\\biandroid\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_plus_signin_btn_text_dark_pressed.9.png",
+        "source": "C:\\Users\\tetawex\\Documents\\biandroid\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_plus_signin_btn_text_dark_pressed.9.png"
     },
     {
-        "merged": "C:\\Users\\tetawex\\Documents\\biandroid\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_google_signin_btn_text_light_focused.9.png",
-        "source": "C:\\Users\\tetawex\\Documents\\biandroid\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_google_signin_btn_text_light_focused.9.png"
+        "merged": "C:\\Users\\tetawex\\Documents\\biandroid\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_plus_signin_btn_text_dark_normal.9.png",
+        "source": "C:\\Users\\tetawex\\Documents\\biandroid\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_plus_signin_btn_text_dark_normal.9.png"
     },
     {
-        "merged": "C:\\Users\\tetawex\\Documents\\biandroid\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_plus_signin_btn_text_light_disabled.9.png",
-        "source": "C:\\Users\\tetawex\\Documents\\biandroid\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_plus_signin_btn_text_light_disabled.9.png"
+        "merged": "C:\\Users\\tetawex\\Documents\\biandroid\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_greater_calendar.png",
+        "source": "C:\\Users\\tetawex\\Documents\\biandroid\\StyleruApp2\\app\\src\\main\\res\\drawable-mdpi\\ic_greater_calendar.png"
     },
     {
-        "merged": "C:\\Users\\tetawex\\Documents\\biandroid\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\placeholder_person.png",
-        "source": "C:\\Users\\tetawex\\Documents\\biandroid\\StyleruApp2\\app\\src\\main\\res\\drawable-mdpi\\placeholder_person.png"
+        "merged": "C:\\Users\\tetawex\\Documents\\biandroid\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_presentation.png",
+        "source": "C:\\Users\\tetawex\\Documents\\biandroid\\StyleruApp2\\app\\src\\main\\res\\drawable-mdpi\\ic_presentation.png"
     },
     {
-        "merged": "C:\\Users\\tetawex\\Documents\\biandroid\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_google_signin_btn_text_light_normal.9.png",
-        "source": "C:\\Users\\tetawex\\Documents\\biandroid\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_google_signin_btn_text_light_normal.9.png"
+        "merged": "C:\\Users\\tetawex\\Documents\\biandroid\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_google_signin_btn_text_dark_focused.9.png",
+        "source": "C:\\Users\\tetawex\\Documents\\biandroid\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_google_signin_btn_text_dark_focused.9.png"
+    },
+    {
+        "merged": "C:\\Users\\tetawex\\Documents\\biandroid\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_plus_signin_btn_text_light_pressed.9.png",
+        "source": "C:\\Users\\tetawex\\Documents\\biandroid\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_plus_signin_btn_text_light_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\tetawex\\Documents\\biandroid\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_google_signin_btn_icon_dark_focused.9.png",
+        "source": "C:\\Users\\tetawex\\Documents\\biandroid\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_google_signin_btn_icon_dark_focused.9.png"
+    },
+    {
+        "merged": "C:\\Users\\tetawex\\Documents\\biandroid\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_plus_signin_btn_icon_light_disabled.9.png",
+        "source": "C:\\Users\\tetawex\\Documents\\biandroid\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_plus_signin_btn_icon_light_disabled.9.png"
     },
     {
         "merged": "C:\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_google_signin_btn_text_light_normal.9.png",
         "source": "C:\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_google_signin_btn_text_light_normal.9.png"
     },
     {
-        "merged": "C:\\Users\\tetawex\\Documents\\biandroid\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_calendar.png",
-        "source": "C:\\Users\\tetawex\\Documents\\biandroid\\StyleruApp2\\app\\src\\main\\res\\drawable-mdpi\\ic_calendar.png"
+        "merged": "C:\\Users\\tetawex\\Documents\\biandroid\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_plus_signin_btn_text_light_focused.9.png",
+        "source": "C:\\Users\\tetawex\\Documents\\biandroid\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_plus_signin_btn_text_light_focused.9.png"
     },
     {
-        "merged": "C:\\Users\\tetawex\\Documents\\biandroid\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_google_signin_btn_text_dark_disabled.9.png",
-        "source": "C:\\Users\\tetawex\\Documents\\biandroid\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_google_signin_btn_text_dark_disabled.9.png"
+        "merged": "C:\\Users\\tetawex\\Documents\\biandroid\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_google_signin_btn_icon_dark_normal.9.png",
+        "source": "C:\\Users\\tetawex\\Documents\\biandroid\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_google_signin_btn_icon_dark_normal.9.png"
     },
     {
-        "merged": "C:\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_plus_signin_btn_icon_light_disabled.9.png",
-        "source": "C:\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_plus_signin_btn_icon_light_disabled.9.png"
+        "merged": "C:\\Users\\tetawex\\Documents\\biandroid\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_plus_signin_btn_icon_dark_disabled.9.png",
+        "source": "C:\\Users\\tetawex\\Documents\\biandroid\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_plus_signin_btn_icon_dark_disabled.9.png"
+    },
+    {
+        "merged": "C:\\Users\\tetawex\\Documents\\biandroid\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_plus_signin_btn_icon_dark_pressed.9.png",
+        "source": "C:\\Users\\tetawex\\Documents\\biandroid\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_plus_signin_btn_icon_dark_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\tetawex\\Documents\\biandroid\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_plus_signin_btn_icon_light_focused.9.png",
+        "source": "C:\\Users\\tetawex\\Documents\\biandroid\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_plus_signin_btn_icon_light_focused.9.png"
+    },
+    {
+        "merged": "C:\\Users\\tetawex\\Documents\\biandroid\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_google_signin_btn_text_light_disabled.9.png",
+        "source": "C:\\Users\\tetawex\\Documents\\biandroid\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_google_signin_btn_text_light_disabled.9.png"
+    },
+    {
+        "merged": "C:\\Users\\tetawex\\Documents\\biandroid\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_plus_signin_btn_icon_dark_focused.9.png",
+        "source": "C:\\Users\\tetawex\\Documents\\biandroid\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_plus_signin_btn_icon_dark_focused.9.png"
+    },
+    {
+        "merged": "C:\\Users\\tetawex\\Documents\\biandroid\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_google_signin_btn_icon_light_normal.9.png",
+        "source": "C:\\Users\\tetawex\\Documents\\biandroid\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_google_signin_btn_icon_light_normal.9.png"
     },
     {
         "merged": "C:\\Users\\tetawex\\Documents\\biandroid\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\placeholder_loading.png",
         "source": "C:\\Users\\tetawex\\Documents\\biandroid\\StyleruApp2\\app\\src\\main\\res\\drawable-mdpi\\placeholder_loading.png"
     },
     {
-        "merged": "C:\\Users\\tetawex\\Documents\\biandroid\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_location.png",
-        "source": "C:\\Users\\tetawex\\Documents\\biandroid\\StyleruApp2\\app\\src\\main\\res\\drawable-mdpi\\ic_location.png"
+        "merged": "C:\\Users\\tetawex\\Documents\\biandroid\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_google_signin_btn_text_light_normal.9.png",
+        "source": "C:\\Users\\tetawex\\Documents\\biandroid\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_google_signin_btn_text_light_normal.9.png"
+    },
+    {
+        "merged": "C:\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_plus_signin_btn_icon_light_disabled.9.png",
+        "source": "C:\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_plus_signin_btn_icon_light_disabled.9.png"
+    },
+    {
+        "merged": "C:\\Users\\tetawex\\Documents\\biandroid\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_plus_signin_btn_text_dark_focused.9.png",
+        "source": "C:\\Users\\tetawex\\Documents\\biandroid\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_plus_signin_btn_text_dark_focused.9.png"
+    },
+    {
+        "merged": "C:\\Users\\tetawex\\Documents\\biandroid\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_google_signin_btn_icon_light_disabled.9.png",
+        "source": "C:\\Users\\tetawex\\Documents\\biandroid\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_google_signin_btn_icon_light_disabled.9.png"
     },
     {
         "merged": "C:\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_explore.png",
         "source": "C:\\StyleruApp2\\app\\src\\main\\res\\drawable-mdpi\\ic_explore.png"
-    },
-    {
-        "merged": "C:\\Users\\tetawex\\Documents\\biandroid\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_plus_signin_btn_icon_dark_normal.9.png",
-        "source": "C:\\Users\\tetawex\\Documents\\biandroid\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_plus_signin_btn_icon_dark_normal.9.png"
     },
     {
         "merged": "C:\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_google_signin_btn_icon_light_pressed.9.png",
@@ -296,10 +296,6 @@
         "source": "C:\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_google_signin_btn_text_light_focused.9.png"
     },
     {
-        "merged": "C:\\Users\\tetawex\\Documents\\biandroid\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_plus_signin_btn_icon_light_pressed.9.png",
-        "source": "C:\\Users\\tetawex\\Documents\\biandroid\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_plus_signin_btn_icon_light_pressed.9.png"
-    },
-    {
         "merged": "C:\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_plus_signin_btn_icon_light_normal.9.png",
         "source": "C:\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_plus_signin_btn_icon_light_normal.9.png"
     },
@@ -316,24 +312,24 @@
         "source": "C:\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_plus_signin_btn_icon_dark_disabled.9.png"
     },
     {
+        "merged": "C:\\Users\\tetawex\\Documents\\biandroid\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_plus_signin_btn_icon_light_normal.9.png",
+        "source": "C:\\Users\\tetawex\\Documents\\biandroid\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_plus_signin_btn_icon_light_normal.9.png"
+    },
+    {
         "merged": "C:\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_greater_calendar.png",
         "source": "C:\\StyleruApp2\\app\\src\\main\\res\\drawable-mdpi\\ic_greater_calendar.png"
+    },
+    {
+        "merged": "C:\\Users\\tetawex\\Documents\\biandroid\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_google_signin_btn_text_dark_disabled.9.png",
+        "source": "C:\\Users\\tetawex\\Documents\\biandroid\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_google_signin_btn_text_dark_disabled.9.png"
     },
     {
         "merged": "C:\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_calendar.png",
         "source": "C:\\StyleruApp2\\app\\src\\main\\res\\drawable-mdpi\\ic_calendar.png"
     },
     {
-        "merged": "C:\\Users\\tetawex\\Documents\\biandroid\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_plus_signin_btn_text_dark_pressed.9.png",
-        "source": "C:\\Users\\tetawex\\Documents\\biandroid\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_plus_signin_btn_text_dark_pressed.9.png"
-    },
-    {
-        "merged": "C:\\Users\\tetawex\\Documents\\biandroid\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_google_signin_btn_icon_dark_pressed.9.png",
-        "source": "C:\\Users\\tetawex\\Documents\\biandroid\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_google_signin_btn_icon_dark_pressed.9.png"
-    },
-    {
-        "merged": "C:\\Users\\tetawex\\Documents\\biandroid\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_avatar.png",
-        "source": "C:\\Users\\tetawex\\Documents\\biandroid\\StyleruApp2\\app\\src\\main\\res\\drawable-mdpi\\ic_avatar.png"
+        "merged": "C:\\Users\\tetawex\\Documents\\biandroid\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_plus_signin_btn_text_light_normal.9.png",
+        "source": "C:\\Users\\tetawex\\Documents\\biandroid\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_plus_signin_btn_text_light_normal.9.png"
     },
     {
         "merged": "C:\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_google_signin_btn_icon_dark_focused.9.png",
@@ -342,5 +338,9 @@
     {
         "merged": "C:\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_plus_signin_btn_icon_dark_focused.9.png",
         "source": "C:\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_plus_signin_btn_icon_dark_focused.9.png"
+    },
+    {
+        "merged": "C:\\Users\\tetawex\\Documents\\biandroid\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_google_signin_btn_text_dark_normal.9.png",
+        "source": "C:\\Users\\tetawex\\Documents\\biandroid\\StyleruApp2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_google_signin_btn_text_dark_normal.9.png"
     }
 ]

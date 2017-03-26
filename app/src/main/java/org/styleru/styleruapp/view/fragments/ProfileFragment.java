@@ -4,8 +4,6 @@ import android.app.Activity;
 import android.os.Bundle;
 import android.support.design.widget.TabLayout;
 import android.support.v4.app.Fragment;
-import android.support.v4.app.FragmentActivity;
-import android.support.v4.app.FragmentTransaction;
 import android.support.v4.view.ViewPager;
 import android.support.v7.widget.Toolbar;
 import android.util.TypedValue;
@@ -13,7 +11,7 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
-import org.styleru.styleruapp.MainActivity;
+import org.styleru.styleruapp.view.activity.MainActivity;
 import org.styleru.styleruapp.R;
 import org.styleru.styleruapp.view.adapter.tab.ViewPagerAdapter;
 

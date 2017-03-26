@@ -11,7 +11,7 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
-import org.styleru.styleruapp.MainActivity;
+import org.styleru.styleruapp.view.activity.MainActivity;
 import org.styleru.styleruapp.R;
 import org.styleru.styleruapp.model.dto.EventsItem;
 import org.styleru.styleruapp.presenter.EventsFeedPresenter;

@@ -1,4 +1,4 @@
-package org.styleru.styleruapp;
+package org.styleru.styleruapp.view.activity;
 
 import android.content.Intent;
 import android.os.Bundle;
@@ -7,6 +7,8 @@ import android.view.View;
 import android.view.WindowManager;
 import android.widget.Button;
 import android.widget.EditText;
+
+import org.styleru.styleruapp.R;
 
 /**
  * Created by Пользователь on 13.03.2017.

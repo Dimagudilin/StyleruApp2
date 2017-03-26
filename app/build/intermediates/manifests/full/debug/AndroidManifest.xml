@@ -20,12 +20,12 @@
 
         <!-- @style/Theme.AppCompat.Light.NoActionBar" -->
         <activity
-            android:name="org.styleru.styleruapp.MainActivity"
+            android:name="org.styleru.styleruapp.view.activity.MainActivity"
             android:configChanges="orientation|screenSize"
             android:label="@string/app_name"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
-            android:name="org.styleru.styleruapp.LoginActivity"
+            android:name="org.styleru.styleruapp.view.activity.LoginActivity"
             android:theme="@style/AppTheme.NoActionBar"
             android:windowSoftInputMode="stateHidden" >
             <intent-filter>

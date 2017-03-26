@@ -4,8 +4,8 @@
         "source": "C:\\StyleruApp2\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_button_go_0.png"
     },
     {
-        "merged": "C:\\Users\\tetawex\\Documents\\biandroid\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\placeholder_loading.png",
-        "source": "C:\\Users\\tetawex\\Documents\\biandroid\\StyleruApp2\\app\\src\\main\\res\\drawable-xxxhdpi\\placeholder_loading.png"
+        "merged": "C:\\Users\\tetawex\\Documents\\biandroid\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_avatar.png",
+        "source": "C:\\Users\\tetawex\\Documents\\biandroid\\StyleruApp2\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_avatar.png"
     },
     {
         "merged": "C:\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_greater_calendar.png",
@@ -14,10 +14,6 @@
     {
         "merged": "C:\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_clock.png",
         "source": "C:\\StyleruApp2\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_clock.png"
-    },
-    {
-        "merged": "C:\\Users\\tetawex\\Documents\\biandroid\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\placeholder_person.png",
-        "source": "C:\\Users\\tetawex\\Documents\\biandroid\\StyleruApp2\\app\\src\\main\\res\\drawable-xxxhdpi\\placeholder_person.png"
     },
     {
         "merged": "C:\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\placeholder_person.png",
@@ -32,12 +28,16 @@
         "source": "C:\\StyleruApp2\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_presentation.png"
     },
     {
+        "merged": "C:\\Users\\tetawex\\Documents\\biandroid\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_clock.png",
+        "source": "C:\\Users\\tetawex\\Documents\\biandroid\\StyleruApp2\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_clock.png"
+    },
+    {
         "merged": "C:\\Users\\tetawex\\Documents\\biandroid\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_presentation.png",
         "source": "C:\\Users\\tetawex\\Documents\\biandroid\\StyleruApp2\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_presentation.png"
     },
     {
-        "merged": "C:\\Users\\tetawex\\Documents\\biandroid\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_explore.png",
-        "source": "C:\\Users\\tetawex\\Documents\\biandroid\\StyleruApp2\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_explore.png"
+        "merged": "C:\\Users\\tetawex\\Documents\\biandroid\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_button_go_0.png",
+        "source": "C:\\Users\\tetawex\\Documents\\biandroid\\StyleruApp2\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_button_go_0.png"
     },
     {
         "merged": "C:\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_avatar.png",
@@ -48,32 +48,32 @@
         "source": "C:\\StyleruApp2\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_location.png"
     },
     {
-        "merged": "C:\\Users\\tetawex\\Documents\\biandroid\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_button_go_0.png",
-        "source": "C:\\Users\\tetawex\\Documents\\biandroid\\StyleruApp2\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_button_go_0.png"
+        "merged": "C:\\Users\\tetawex\\Documents\\biandroid\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_location.png",
+        "source": "C:\\Users\\tetawex\\Documents\\biandroid\\StyleruApp2\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_location.png"
+    },
+    {
+        "merged": "C:\\Users\\tetawex\\Documents\\biandroid\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\placeholder_person.png",
+        "source": "C:\\Users\\tetawex\\Documents\\biandroid\\StyleruApp2\\app\\src\\main\\res\\drawable-xxxhdpi\\placeholder_person.png"
+    },
+    {
+        "merged": "C:\\Users\\tetawex\\Documents\\biandroid\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_explore.png",
+        "source": "C:\\Users\\tetawex\\Documents\\biandroid\\StyleruApp2\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_explore.png"
+    },
+    {
+        "merged": "C:\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\placeholder_loading.png",
+        "source": "C:\\StyleruApp2\\app\\src\\main\\res\\drawable-xxxhdpi\\placeholder_loading.png"
+    },
+    {
+        "merged": "C:\\Users\\tetawex\\Documents\\biandroid\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\placeholder_loading.png",
+        "source": "C:\\Users\\tetawex\\Documents\\biandroid\\StyleruApp2\\app\\src\\main\\res\\drawable-xxxhdpi\\placeholder_loading.png"
     },
     {
         "merged": "C:\\Users\\tetawex\\Documents\\biandroid\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_greater_calendar.png",
         "source": "C:\\Users\\tetawex\\Documents\\biandroid\\StyleruApp2\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_greater_calendar.png"
     },
     {
-        "merged": "C:\\Users\\tetawex\\Documents\\biandroid\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_avatar.png",
-        "source": "C:\\Users\\tetawex\\Documents\\biandroid\\StyleruApp2\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_avatar.png"
-    },
-    {
-        "merged": "C:\\Users\\tetawex\\Documents\\biandroid\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_clock.png",
-        "source": "C:\\Users\\tetawex\\Documents\\biandroid\\StyleruApp2\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_clock.png"
-    },
-    {
         "merged": "C:\\Users\\tetawex\\Documents\\biandroid\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_calendar.png",
         "source": "C:\\Users\\tetawex\\Documents\\biandroid\\StyleruApp2\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_calendar.png"
-    },
-    {
-        "merged": "C:\\Users\\tetawex\\Documents\\biandroid\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_location.png",
-        "source": "C:\\Users\\tetawex\\Documents\\biandroid\\StyleruApp2\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_location.png"
-    },
-    {
-        "merged": "C:\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\placeholder_loading.png",
-        "source": "C:\\StyleruApp2\\app\\src\\main\\res\\drawable-xxxhdpi\\placeholder_loading.png"
     },
     {
         "merged": "C:\\StyleruApp2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_calendar.png",
